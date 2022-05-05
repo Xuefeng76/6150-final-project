@@ -8,7 +8,7 @@ const NewAccount=()=>{
         if(Lguseremail!=0&&Lgpassword!=0){
           if(VerifyAccount(Lguseremail,Lgpassword)==0){
             alert("Login Successful!");
-            window.open("http://localhost:3002/","_blank");
+            window.open("http://localhost:3001/","_blank");
             // var ii=localStorage.getItem('LogInAccount');
             // document.getElementById("reloadText").innerHTML=myArray[ii].firstName;
             

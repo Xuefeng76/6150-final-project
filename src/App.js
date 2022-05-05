@@ -14,6 +14,7 @@ import Buy from './compoments/Buy';
 import LogIn from './compoments/LogIn';
 import LogOrSign from './compoments/LogOrSign';
 import NewAccount from './compoments/NewAccount';
+import HomeInfo from './compoments/HomeInfo';
 function App() {
  
   return (
@@ -23,6 +24,8 @@ function App() {
       
       <Route index element={<><Search/> <FlexBox/><Footer/></> } />
         <Route path="Rent" element={<Rent/>} />
+        <Route path="HomeInfo" element={<HomeInfo/>} />
+        
         <Route path="Sell" element={<Sell/>} />
         <Route path="Buy" element={<Buy/>} />
         <Route path="LogOrSign" element={<LogOrSign/>}>
