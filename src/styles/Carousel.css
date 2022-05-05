@@ -1,0 +1,9 @@
+.Carouse1a{
+    height: 800px;
+    background-color: black;
+}
+@media screen and (max-width: 750px) {
+    .Carouse1a{
+        display: none;
+    }
+}
