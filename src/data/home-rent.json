@@ -1,0 +1,65 @@
+{
+    "rentInfo":[
+        {
+            "Detail":{
+                "Id":"1",
+                "Name":"jake's house",
+                "Owner":"Jack",
+                "img":"https://photos.zillowstatic.com/fp/2ff2a6973a8ccc4d87b55584d1c6e51c-p_e.jpg",
+                "Build time":"1990",
+                "ZIP":"02215",
+                "coordinates": [42.343160, -71.095086],
+                "price":"1200"
+            }
+            
+        },
+        {
+            "Detail":{
+                "Id":"2",
+                "Name":"Tom's house",
+                "Owner":"Tom",
+                "img":"https://photos.zillowstatic.com/fp/52c900eb41d4af5e12e94f160a346458-p_e.jpg",
+                "Build time":"1993",
+                "ZIP":"02215",
+                "coordinates": [42.343331,-71.097484],
+                "price":"1300"
+            }
+        },
+        {
+            "Detail":{
+                "Id":"3",
+                "Name":"Mike's house",
+                "Owner":"Mike",
+                "img":"https://photos.zillowstatic.com/fp/8ffa5653dd8e89c65099447c7c669c3c-p_e.jpg",
+                "Build time":"1932",
+                "ZIP":"02215",
+                "coordinates": [42.344417,-71.095473],
+                "price":"900"
+            }
+        },
+        {
+            "Detail":{
+                "Id":"4",
+                "Name":"Jim's house",
+                "Owner":"Jim",
+                "img":"https://photos.zillowstatic.com/fp/7349164fd51aca07358492ba1907483e-p_e.jpg",
+                "Build time":"1950",
+                "ZIP":"02216",
+                "coordinates": [42.342030, -71.090209],
+                "price":"1100"
+            }
+        },
+        {
+            "Detail":{
+                "Id":"5",
+                "Name":"Jame's house",
+                "Owner":"Jame",
+                "img":"https://photos.zillowstatic.com/fp/4d78c352bdc3f867304d5ada3555d025-p_e.jpg",
+                "Build time":"1999",
+                "ZIP":"02217",
+                "coordinates": [42.340325, -71.090360],
+                "price":"1500"
+            }
+        }
+    ]
+}

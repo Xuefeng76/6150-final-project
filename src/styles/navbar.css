@@ -9,7 +9,13 @@
     color: black;
     box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
   }
-  
+  .fake{width: 500px;}
+  .da{
+    
+    
+    margin-left: auto;
+    margin-right: auto;
+  }
   .brand-name {
     text-decoration: none;
     color: blue;
@@ -58,6 +64,9 @@
   }
   
   @media screen and (max-width: 550px) {
+    .fake{
+      width: 50px;
+    }
     .hamburger {
       display: block;
     }
@@ -87,9 +96,11 @@
   
     .navigation-menu li:hover {
       background-color: #eee;
+      color: black;
     }
   
     .navigation-menu.expanded ul {
+      color: black;
       display: block;
     }
   }

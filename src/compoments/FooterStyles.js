@@ -5,6 +5,7 @@ padding: 80px 60px;
 background: black;
 position: absolute;
 
+
 width: 100%;
 
 

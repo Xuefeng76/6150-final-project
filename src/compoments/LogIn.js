@@ -72,8 +72,9 @@ function searchByName(name,email) {
         <input type="Last Name" id="lname" name="lname" placeholder="Last Name" />
         <input type="email" id="email" name="email" placeholder="Your Email Addres" />
         <input type="password" id="pwd" name="password" placeholder="Password" />
-        <div class="form-btn">
-          <button onClick={op}><input type="submit" value="CREATE AN ACCOUNT" /></button>
+        <div className="form-btn">
+          <button onClick={op}>CREATE AN ACCOUNT</button>
+          {/* <input type="submit" value="" /> */}
         </div>
         {/* <!-- <button onclick="clearf()">clear all</button> --> */}
       </form>

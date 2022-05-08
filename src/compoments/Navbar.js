@@ -16,10 +16,18 @@ export default function Navbar() {
     return (
     
     <nav className="navigation">
-    
-      <a href="/" className="brand-name">
-        Zillow
+    <div className="fake"></div>
+      <div className="da">
+        <a href="/">
+        <img style={{width:"200px"}} src="	https://s.zillowstatic.com/pfs/static/z-logo-default.svg"/>
       </a>
+      </div>
+      
+     
+      {/* <a href="/" className="brand-name">
+        Zillow
+      </a> */}
+
       <button
         className="hamburger"
         onClick={() => {
@@ -45,8 +53,8 @@ export default function Navbar() {
           isNavExpanded ? "navigation-menu expanded" : "navigation-menu"
         }
       >
-        <ul>
-        <li>
+        <ul className="ul">
+        <li className="li">
           <Link to="/">Home</Link>
           </li>
           <li>
@@ -59,8 +67,8 @@ export default function Navbar() {
           <Link to="/Buy">Buy</Link>
           </li>
           <li>
-            <h2>Welcome+{myArray[i].firstName}</h2>
-            <button id="logout" onClick={logout} >LogOut</button>
+            <h4 style={{marginBottom:"10px"}}>Welcome+{myArray[i].firstName}<button id="logout" onClick={logout} >LogOut</button></h4>
+            
           </li>
         </ul>
       </div>
@@ -70,10 +78,16 @@ export default function Navbar() {
     return (
     
       <nav className="navigation">
-      
-        <a href="/" className="brand-name">
+      <div className="fake"></div>
+      <div className="da">
+        <a href="/">
+        <img style={{width:"200px"}} src="	https://s.zillowstatic.com/pfs/static/z-logo-default.svg"/>
+      </a>
+      </div>
+         
+        {/* <a href="/" className="brand-name">
           Zillow
-        </a>
+        </a> */}
         <button
           className="hamburger"
           onClick={() => {

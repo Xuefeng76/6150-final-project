@@ -1,32 +1,50 @@
 .d1{
-    width: 500px;
-    height: 500px;
-    background-color: aqua;
+    width: 385px;
+    height: 465px;
+    background-color: white;
     margin-top: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
 }
-.d2{
-    width: 500px;
-    height: 500px;
-    background-color: aqua;
-    margin-top: 20px;
+.d1:hover{
+    -webkit-transform: translateY(-3px);
+    -ms-transform: translateY(-3px);
+    transform: translateY(-3px);
+    -webkit-box-shadow: 0 0 6px #999;
+    box-shadow: 0 12px 15px 0 rgba(0, 0, 0, 0.2), 0 15px 30px 0 rgba(0, 0, 0, 0.19);
+    -webkit-transition: all .5s ease-out;
+    transition: all .2s ease-out;
+
 }
-.d3{
-    width: 500px;
-    height: 500px;
-    background-color: aqua;
-    margin-top: 20px;
+.bt1{
+    width: 142px;
+    height: 42px;
+    border: 2px solid #136EFA;
+  border-radius: 5px;
+  font-size: large;
 }
+.d1:hover .bt1{
+    
+    background-color: #136EFA;
+    
+}
+.d1:hover .l1{
+  
+    color: white;
+}
+
 .img1{
-    width: 450px;
-    height: 300px;
+    width: 350px;
+    height: 250px;
 }
 .Row1{
-    margin-left: 50px;
+    margin-left: 200px;
     margin-top: 50px;
+    
 }
 @media screen and (max-width: 750px) {
     .Row1{
-        margin-left: auto;
-        margin-right: auto;
+        margin-left: 50px;
+        
     }
 }

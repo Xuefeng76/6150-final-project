@@ -1,6 +1,9 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "../styles/LogIn.css";
+import {useNavigate } from 'react-router-dom';
 const NewAccount=()=>{
+  const navigate = useNavigate();
     const myArray = JSON.parse(localStorage.getItem("accountData") || '[]');
     function Lop(){
         let Lguseremail=document.getElementById("Lemail").value;
@@ -8,7 +11,9 @@ const NewAccount=()=>{
         if(Lguseremail!=0&&Lgpassword!=0){
           if(VerifyAccount(Lguseremail,Lgpassword)==0){
             alert("Login Successful!");
-            window.open("http://localhost:3001/","_blank");
+            // window.open("http://localhost:3001/","_blank");
+            navigate("/");
+            window.location.reload();
             // var ii=localStorage.getItem('LogInAccount');
             // document.getElementById("reloadText").innerHTML=myArray[ii].firstName;
             
@@ -38,18 +43,21 @@ const NewAccount=()=>{
 
 
 
-    return(<div class="login">
+    return(<div className="login">
     <div className="card">
       <h3>SIGN IN</h3>
       <form>
         <input type="email" id="Lemail" name="email" placeholder="Your Email Addres" />
         <input type="password" id="Lpassword" name="password" placeholder="Password" />
         <div className="form-btn">
-          <button onClick={Lop}><input type="submit" value="SIGN IN" /></button>
+        
+          <button onClick={Lop}>SIGN IN</button>
+        {/* <input type="submit" value="SIGN IN" /> */}
+          
         </div>
       </form>
       <ul>
-        <li><a href="newAccount.html">If You Are New, Click Here!</a></li>
+        <li><a href="" onClick={()=>{navigate("../logIn");}}>If You Are New, Click Here!</a></li>
       </ul>
     </div>
   </div>);
