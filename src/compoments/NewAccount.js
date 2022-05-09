@@ -29,7 +29,7 @@ const NewAccount=()=>{
         for (let i = 0; i < myArray.length; i++) {
           if(myArray[i].Email==email&&myArray[i].password==password){
             localStorage.setItem("LogInAccount", i);
-      
+           
             return 0;
           }
         }
@@ -52,6 +52,7 @@ const NewAccount=()=>{
         <div className="form-btn">
         
           <button onClick={Lop}>SIGN IN</button>
+          <button onClick={()=>{localStorage.clear();}}>clear all</button>
         {/* <input type="submit" value="SIGN IN" /> */}
           
         </div>

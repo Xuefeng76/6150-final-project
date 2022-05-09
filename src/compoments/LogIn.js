@@ -19,14 +19,22 @@ function op() {
     } else {
       const myfirstAc = new account(firstname, lastname,uEmail, password);
       myArray.push(myfirstAc);
-      console.log(myArray);
+      // console.log(myArray);
       localStorage.setItem("accountData", JSON.stringify(myArray));
+      console.log(myfirstAc.likelist);
+
       //   console.log(localStorage.getItem("accountData").);
       alert("sign up succeed");
       document.getElementById("fname").value = null;
       document.getElementById("lname").value = null;
       document.getElementById("email").value=null;
       document.getElementById("pwd").value = null;
+      // for(let i=0;i<myArray.length;i++){
+      //   if(myArray[i].firstName==firstname){
+      //     let LikeList=[i]
+      //     localStorage.setItem("LikeLists",JSON.stringify(LikeList));
+      //   }
+      // }
     }
   } else {
     alert("Incomplete Information!");
@@ -44,6 +52,8 @@ function account(first, last,email, ps) {
   this.lastName = last;
   this.Email=email;
   this.password = ps;
+  this.likelist="";
+  
 }
 function searchByName(name,email) {
   for (let i = 0; i < myArray.length; i++) {
