@@ -4,6 +4,7 @@ import withGoogleMap from "react-google-maps/lib/withGoogleMap";
 import withScriptjs from "react-google-maps/lib/withScriptjs";
 import parksData from "../data/skaeboard-parks.json";
 import rentInfo from "../data/home-rent.json"
+import "../styles/rent.css";
 import { UserContext } from './Rent'
 function Map() {
     const datazip = useContext(UserContext);
@@ -90,7 +91,7 @@ function Map() {
 }
 const WrappedMap = withScriptjs(withGoogleMap(Map))
 export default function App() {
-    return (<div style={{ width: "50vw", height: "100vh" }}>
+    return (<div className="mapdiv" style={{ width: "50vw", height: "100vh" }}>
         <WrappedMap googleMapURL={'https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=AIzaSyBGqJuYmX0PdinZbG2OPGYxkan80viUYW0'}
             loadingElement={<div style={{ height: "100%" }} />}
             containerElement={<div style={{ height: "100%" }} />}

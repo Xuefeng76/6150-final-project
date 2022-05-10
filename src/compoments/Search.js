@@ -4,7 +4,7 @@ import { AudioOutlined } from '@ant-design/icons';
 import "../styles/search.css"
 import { useState } from 'react';
 import { Routes, Route, Link, Outlet,useNavigate } from 'react-router-dom';
-
+import {FaSearch} from 'react-icons/fa';
 // const { Search } = Input;
 
 // export default () => (
@@ -36,8 +36,10 @@ const Search = () => {
       <h1 style={{ textAlign: "center", color: "white" }} className="w1">Find it. Tour it. Own it.!</h1>
       <div className="s3">
         <input className="input" placeholder="ZIP code or address" type="text"  value={inputs||""} onChange={(e) => setInputs(e.target.value)} ></input>
-        
-        <button className="button" onClick={onClick}>Search</button></div>
+        <div className="s4">
+          <button className="button" onClick={onClick}><FaSearch /></button>
+        </div>
+        </div>
     </div>
   </div>);
 }
