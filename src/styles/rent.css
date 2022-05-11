@@ -10,3 +10,14 @@
 .bt2:focus{
     background-color: red;
 }
+.mapdiv{
+    width: 50vw;
+    height: 100vh;
+}
+
+@media screen and (max-width: 750px) {
+    .mapdiv{
+        width: 100vw;
+        height: 100vh;
+    }
+}

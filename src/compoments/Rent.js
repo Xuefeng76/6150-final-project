@@ -111,10 +111,10 @@ const RentNoZipSort=()=>{
     const zipcode = params.state;
     return( <div>
 
-                <div style={{ float: "left" }}>
+                <div className="dmap" style={{ float: "left" }}>
             <UserContext.Provider value={zipcode}>
-
-                    <MyMapComponent isMarkerShown className="map" />
+                    <MyMapComponent isMarkerShown className=""></MyMapComponent>
+                   
             </UserContext.Provider>  
                 </div>
 

@@ -61,11 +61,9 @@ export default function Navbar() {
           <Link to="/Rent">Rent</Link>
           </li>
           <li>
-          <Link to="/Sell">Sell</Link>
+          <Link to="/HomePage">HomePage</Link>
           </li>
-          <li>
-          <Link to="/Buy">Buy</Link>
-          </li>
+         
           <li>
             <h4 style={{marginBottom:"10px"}}>Welcome+{myArray[i].firstName}<button id="logout" onClick={logout} >LogOut</button></h4>
             
@@ -121,11 +119,9 @@ export default function Navbar() {
             <Link to="/Rent">Rent</Link>
             </li>
             <li>
-            <Link to="/Sell">Sell</Link>
+            <Link to="/HomePage">HomePage</Link>
             </li>
-            <li>
-            <Link to="/Buy">Buy</Link>
-            </li>
+           
             <li>
             <Link to="/LogOrSign">LogIn/SignIn</Link>
             </li>

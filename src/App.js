@@ -15,6 +15,10 @@ import LogIn from './compoments/LogIn';
 import LogOrSign from './compoments/LogOrSign';
 import NewAccount from './compoments/NewAccount';
 import HomeInfo from './compoments/HomeInfo';
+import HomePage from './compoments/HomePage';
+import PersonInfo from './compoments/PersonInfo';
+
+
 function App() {
  
   return (
@@ -25,9 +29,13 @@ function App() {
       <Route index element={<><Search/> <FlexBox/><Footer/></> } />
         <Route path="Rent" element={<Rent/>} />
         <Route path="HomeInfo" element={<HomeInfo/>} />
-        
-        <Route path="Sell" element={<Sell/>} />
-        <Route path="Buy" element={<Buy/>} />
+        <Route path="HomePage" element={<HomePage/>} >
+        <Route index element={<PersonInfo/>} />
+          <Route path="Sell" element={<Sell/>} />
+          <Route path="Buy" element={<Buy/>} />
+        </Route>
+        {/* <Route path="Sell" element={<Sell/>} />
+        <Route path="Buy" element={<Buy/>} /> */}
         <Route path="LogOrSign" element={<LogOrSign/>}>
            <Route index element={<LogIn />} />
           <Route path="LogIn" element={<LogIn/>} />

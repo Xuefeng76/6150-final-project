@@ -5,8 +5,12 @@ const Buy=()=>{
     const navigate = useNavigate();
     const myArray = JSON.parse(localStorage.getItem("accountData") || '[]');
     var i=localStorage.getItem('LogInAccount');
-    if(i!=null){
+    
         return(<>
+        <div>
+  <p>page 1 content</p>
+  <button onClick={()=>navigate(-1)}>go back</button>
+  </div>
         <div>
             {
                 rentInfo.rentInfo.filter((rentIF) => {
@@ -44,10 +48,7 @@ const Buy=()=>{
 
         </div>
     </>);
-    }else{
-        alert("please log in at first");
-        navigate("../LogOrSign/LogIn");
-    }
+   
     
 }
 

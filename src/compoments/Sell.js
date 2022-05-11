@@ -23,8 +23,12 @@ const Sell=()=>{
       arr.push(inputs);
       console.log(arr);
     }
-    if(i!=null){
+    
     return(<>
+    <div>
+  <p>page 1 content</p>
+  <button onClick={()=>navigate(-1)}>go back</button>
+  </div>
         <h1 style={{marginLeft:"380px"}}>Sell your properities</h1>
         <form onSubmit={handleSubmit} style={{marginLeft:"250px"}}>
         <div className="ds">
@@ -146,13 +150,7 @@ const Sell=()=>{
         <input style={{marginLeft:"200px" ,width:"100px",height:"50px"}} type="submit" />
     </form>
         </>);
-    }else{
-        alert("please login first");
-        navigate("../LogOrSign/NewAccount");
-        return(
-            <><button  onClick={()=>{navigate("../LogOrSign/NewAccount");}}>go to log index</button></>
-        )
-    }
+    
     
 }
 
