@@ -8,21 +8,21 @@
 }
 .s2{
     width: 800px;
-    height: 200px;
+    height: 202px;
     margin:  auto;
     padding-top: 200px;
     
 }
 .s3{
     float: left;
-    height: 50px;
+    height: 52px;
     margin-left: 150px
     
     
     
 }
 .s4{
-    height: 49px;
+    height: 48px;
     float: right;
     border: 1px solid black;
 }
@@ -35,7 +35,7 @@
 .button{
     
     width: 70px;
-    height: 50px;
+    height: 48px;
 }
 
 
@@ -57,21 +57,21 @@
     }
     .s2{
         padding-top: 50px;
-        height: 100px;
+        height: 102px;
     }
     .input{
     
         width: 200px;
-        height: 25px;
+        height: 50px;
         
     }
     .s4{
-        height: 25px;
+        height: 48px;
     }
     .button{
     
         width: 40px;
-        height: 25px;
+        height: 48px;
     }
    
 }

@@ -37,7 +37,7 @@ const Search = () => {
       <div className="s3">
         <input className="input" placeholder="ZIP code or address" type="text"  value={inputs||""} onChange={(e) => setInputs(e.target.value)} ></input>
         <div className="s4">
-          <button className="button" onClick={onClick}><FaSearch /></button>
+          <button className="button" onClick={onClick}><FaSearch size={30} /></button>
         </div>
         </div>
     </div>

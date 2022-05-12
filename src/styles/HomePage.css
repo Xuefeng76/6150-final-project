@@ -1,0 +1,9 @@
+.SB{
+    float: left;
+    height: 30px;
+   background-color: yellow;
+}
+.md{
+    height: 50px;
+    background-color: brown;
+}

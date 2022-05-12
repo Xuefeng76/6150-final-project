@@ -1,14 +1,15 @@
 import { useState } from "react";
 import "../styles/navbar.css";
 import { Routes, Route, Link } from 'react-router-dom';
+import Avatar from 'react-avatar';
 export default function Navbar() {
   const myArray = JSON.parse(localStorage.getItem("accountData") || '[]');
   const [isNavExpanded, setIsNavExpanded] = useState(false);
-  function logout(){
-    localStorage.removeItem('LogInAccount');
-    window.location.reload();
-    alert("Logout Successfully!");
-  }
+  // function logout(){
+  //   localStorage.removeItem('LogInAccount');
+  //   window.location.reload();
+  //   alert("Logout Successfully!");
+  // }
   var i=localStorage.getItem('LogInAccount');
   if(i!=null)
   {
@@ -53,21 +54,28 @@ export default function Navbar() {
           isNavExpanded ? "navigation-menu expanded" : "navigation-menu"
         }
       >
-        <ul className="ul">
-        <li className="li">
-          <Link to="/">Home</Link>
+        <ul >
+        <li style={{marginTop:"10px"}}>
+          <Link to="/"><div className="s5">Home</div></Link>
           </li>
-          <li>
-          <Link to="/Rent">Rent</Link>
+          <li style={{marginTop:"10px"}}>
+          <Link to="/Rent" ><div className="s5">Rent</div></Link>
           </li>
-          <li>
-          <Link to="/HomePage">HomePage</Link>
+          <li style={{marginTop:"10px"}}>
+          <Link to="/HomePage"><div className="s5">HomePage</div></Link>
           </li>
          
           <li>
-            <h4 style={{marginBottom:"10px"}}>Welcome+{myArray[i].firstName}<button id="logout" onClick={logout} >LogOut</button></h4>
+          <div className="s5">
+             <h4 style={{marginBottom:"10px"}}>Welcome {myArray[i].firstName}  <Avatar name={myArray[i].firstName +" "+myArray[i].lastName} size="50"/></h4>
+           
+          </div>
+           
             
           </li>
+          {/* <li>
+            <button id="logout" onClick={logout} >LogOut</button>
+          </li> */}
         </ul>
       </div>
     </nav>

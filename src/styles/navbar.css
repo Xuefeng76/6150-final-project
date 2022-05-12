@@ -25,23 +25,34 @@
   
   .navigation-menu {
     margin-left: auto;
+    padding-top: 10px;
+    height: auto;
+    
   }
   
   .navigation-menu ul {
     display: flex;
     padding: 0;
+    height: auto;
   }
   
   .navigation-menu li {
     list-style-type: none;
     margin: 0 1rem;
+    height: auto;
+    padding-top: 10px;
+    
   }
+.s5{
+  font-size: larger;
+}
   
-  .navigation-menu li Link {
+  /* .navigation-menu li Link {
     text-decoration: none;
     display: block;
     width: 100%;
-  }
+  
+  } */
   
   .hamburger {
     border: 0;
@@ -98,7 +109,9 @@
       background-color: #eee;
       color: black;
     }
-  
+  .navigation-menu{
+    padding-top: 30px;
+  }
     .navigation-menu.expanded ul {
       color: black;
       display: block;

@@ -8,7 +8,8 @@ const Buy=()=>{
     
         return(<>
         <div>
-  <p>page 1 content</p>
+ <br/>
+ <br/>
   <button onClick={()=>navigate(-1)}>go back</button>
   </div>
         <div>

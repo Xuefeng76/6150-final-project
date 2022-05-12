@@ -1,0 +1,30 @@
+.dps{
+    width: 800px;
+    background-color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+.avatar{
+    width: 150px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#logoutbtn{
+    width: 150px;
+    background-color: red;
+    color: azure;
+    border-radius: 6px;
+}
+.logout{
+    border-radius: 6px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
