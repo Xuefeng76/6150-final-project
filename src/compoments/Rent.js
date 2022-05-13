@@ -42,8 +42,12 @@ const RentZip = () => {
     const navigate = useNavigate();
     const params = useLocation();
     const zipcode = params.state;
+    const [isActive, setActive] = useState("false");
+    const handleToggle = () => {
+        setActive(!isActive);
+      };
     return (<div>
-
+<h1 style={{fontStyle:"italic",height:"50px",backgroundColor:"brown"}}> Rent Page</h1>
         <div style={{ float: "left" }}>
             <UserContext.Provider value={zipcode}>
                 <MyMapComponent isMarkerShown />
@@ -61,16 +65,22 @@ const RentZip = () => {
 
                 console.log(rentIF.Detail.Id)
                 return <div className="dr" style={{ float: "left" }} key={rentIF.Detail.Id}>
+                    
                     <img src={rentIF.Detail.img} alt="zanwu" style={{ width: "345px", height: "200px" }} />
                     <h2>{rentIF.Detail.Name}</h2>
-                    <p>{rentIF.Detail.price}</p>
+                    <p><FaDollarSign size={20}/>{rentIF.Detail.price}</p>
                     {/* <nav>
-                            <Link to="/HomeInfo"></Link>
-                        </nav>
-                        <Outlet /> */}
+                        <Link to="/HomeInfo"></Link>
+                    </nav>
+                    <Outlet /> */}
+                    {/* <p>{myArray[i].firstName}</p> */}
+                    
+                        {/* <div className={isActive?"is-active":"heart"} onClick={handleToggle}>?</div> */}
+                        <div className="heartdiv">
+                        <div className="heart" onClick></div>
+                        
+<div className="btnGroup">
                     <button id="bt2" onClick={() => {
-                        // alert("please log in at first");
-                        // navigate("../LogOrSign/LogIn");
                         if (i != null) {
                             if (myArray[i].likelist.indexOf(rentIF.Detail.Id) != -1) {
                                 alert("this house is already on your list ")
@@ -79,22 +89,27 @@ const RentZip = () => {
                                 arr.push(rentIF.Detail.Id);
                                 myArray[i].likelist = arr.join("");
                                 localStorage.setItem("accountData", JSON.stringify(myArray));
-                                alert(myArray[i].likelist);
-                                // document.getElementById("bt2").innerText="liked";
+                                
+                                
+                                setActive(!isActive);
                             }
                         } else {
                             alert("please log in at first");
                             navigate("../LogOrSign/NewAccount");
                         }
 
-                    }}>Like!</button>
-                    <button onClick={() => {
 
+                    }}>{isActive?'SAVE':'SAVED'}</button>
+                    </div>
+                    <div className="btnGroup">
+                    <button id="bt3" onClick={() => {
+                        console.log(rentIF.Detail.ID)
                         navigate("/HomeInfo", {
                             state: rentIF.Detail.Id
                         });
                     }}>rent</button>
-
+</div>
+</div>
                 </div>
             })
         }
@@ -114,12 +129,12 @@ const RentNoZipSort = () => {
     const navigate = useNavigate();
     const params = useLocation();
     const zipcode = params.state;
-    // const [isActive, setActive] = useState("false");
-    // const handleToggle = () => {
-    //     setActive(!isActive);
-    //   };
+    const [isActive, setActive] = useState("false");
+    const handleToggle = () => {
+        setActive(!isActive);
+      };
     return (<div>
-
+<h1 style={{fontStyle:"italic",height:"50px",backgroundColor:"brown"}}> Rent Page</h1>
         <div className="dmap" style={{ float: "left" }}>
             <UserContext.Provider value={zipcode}>
                 <MyMapComponent isMarkerShown className=""></MyMapComponent>
@@ -140,10 +155,12 @@ const RentNoZipSort = () => {
                 .map(rentIF => {
 
                     console.log(rentIF.Detail.Id)
+                    
                     return <div className="dr" style={{ float: "left" }} key={rentIF.Detail.Id}>
+                    
                         <img src={rentIF.Detail.img} alt="zanwu" style={{ width: "345px", height: "200px" }} />
                         <h2>{rentIF.Detail.Name}</h2>
-                        <p><FaDollarSign />{rentIF.Detail.price}</p>
+                        <p><FaDollarSign size={20}/>{rentIF.Detail.price}</p>
                         {/* <nav>
                             <Link to="/HomeInfo"></Link>
                         </nav>
@@ -151,7 +168,9 @@ const RentNoZipSort = () => {
                         {/* <p>{myArray[i].firstName}</p> */}
                         
                             {/* <div className={isActive?"is-active":"heart"} onClick={handleToggle}>?</div> */}
+                            <div className="heartdiv">
                             <div className="heart" onClick></div>
+                            
 <div className="btnGroup">
                         <button id="bt2" onClick={() => {
                             if (i != null) {
@@ -162,9 +181,9 @@ const RentNoZipSort = () => {
                                     arr.push(rentIF.Detail.Id);
                                     myArray[i].likelist = arr.join("");
                                     localStorage.setItem("accountData", JSON.stringify(myArray));
-                                    document.getElementsByClassName("bt2").innerText = "saved";
                                     
-                                    alert(myArray[i].likelist)
+                                    
+                                    setActive(!isActive);
                                 }
                             } else {
                                 alert("please log in at first");
@@ -172,17 +191,17 @@ const RentNoZipSort = () => {
                             }
 
 
-                        }}>Like!</button>
+                        }}>{isActive?'SAVE':'SAVED'}</button>
                         </div>
                         <div className="btnGroup">
-                        <button onClick={() => {
+                        <button id="bt3" onClick={() => {
                             console.log(rentIF.Detail.ID)
                             navigate("/HomeInfo", {
                                 state: rentIF.Detail.Id
                             });
                         }}>rent</button>
 </div>
-
+</div>
                     </div>
                 })
         }

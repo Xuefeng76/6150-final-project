@@ -1,6 +1,7 @@
 .dps{
     width: 800px;
-    background-color: aqua;
+    height: auto;
+    background-color: rgb(228, 227, 227);
     margin-left: auto;
     margin-right: auto;
 }

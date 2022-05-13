@@ -8,8 +8,8 @@ const HomePage=()=>{
     return(
         <div className="md">
         <h1 style={{fontStyle:"italic"}}> Personal Info</h1>
-        <div className="SB"><Link to="Sell"><h2>Sell</h2></Link></div>
-        <div className="SB"><Link to="Buy"><h2>/Buy</h2></Link></div>
+        <div className="SB"><Link to="Sell"><div className="ctx">Sell</div></Link></div>
+        <div className="SB"><Link to="Buy"><div className="ctx">Your List</div></Link></div>
             
             
             <Outlet/>

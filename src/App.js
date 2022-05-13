@@ -4,7 +4,7 @@ import Navbar from './compoments/Navbar';
 import Search from './compoments/Search';
 import Demo1 from './compoments/demo1';
 import Demo3 from './compoments/demo3';
-import CarouselP from './compoments/CarouselP';
+
 import FlexBox from './compoments/FlexBox';
 import Footer from './compoments/Footer';
 import { Routes, Route, Link } from 'react-router-dom';
@@ -17,6 +17,7 @@ import NewAccount from './compoments/NewAccount';
 import HomeInfo from './compoments/HomeInfo';
 import HomePage from './compoments/HomePage';
 import PersonInfo from './compoments/PersonInfo';
+import GalleyTest from './compoments/GalleryTest';
 
 
 function App() {
@@ -44,12 +45,7 @@ function App() {
         
         
       </Routes>
-      {/* <Search/> */}
-      {/* <CarouselP/> */}
-      {/* <FlexBox/> */}
-      {/* <div>
-         
-      </div> */}
+        
      
     </div>
   );

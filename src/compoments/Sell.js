@@ -52,9 +52,9 @@ const handleLat=(event)=>{
   return (<>
   <br/>
   <br/>
-  <div className="backbtn">
-    <button onClick={() => navigate(-1)}>go back</button>
-  </div>
+  <div className="btnGroup">
+     <button id="bt3" onClick={()=>navigate(-1)} style={{fontStyle:"italic"}}>go back</button>
+ </div>
  
     
 

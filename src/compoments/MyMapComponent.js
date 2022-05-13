@@ -5,11 +5,14 @@ import withScriptjs from "react-google-maps/lib/withScriptjs";
 import parksData from "../data/skaeboard-parks.json";
 import rentInfo from "../data/home-rent.json"
 import "../styles/rent.css";
+// import "../styles/Detail.css";
+
 import { UserContext } from './Rent'
+import { UserContextID } from "./HomeInfo";
 function Map() {
     const datazip = useContext(UserContext);
-
-    console.log(datazip);
+    const dataID=useContext(UserContextID);
+    console.log(dataID);
     const [selectedPark, setSelectedPark] = useState();
     if (datazip != null) {
         return (<GoogleMap
@@ -50,7 +53,45 @@ function Map() {
             )}
         </GoogleMap>
         );
-    } else {
+    } else if(dataID!=null){
+        return(<GoogleMap
+            defaultZoom={10}
+            defaultCenter={{ lat: 42.360081, lng: -71.058884 }}>
+
+            {rentInfo.rentInfo.filter((rentIF) => {
+                if (rentIF.Detail.Id == dataID) {
+                    return rentIF;
+                }
+            }).map(rentIF => (
+                <Marker key={rentIF.Detail.Id}
+                    position={{
+                        lat: rentIF.Detail.coordinates[0],
+                        lng: rentIF.Detail.coordinates[1]
+                    }}
+                    onClick={() => {
+                        setSelectedPark(rentIF);
+                    }}
+                // icon={{
+                //     url:''
+                // }}
+                />
+            ))}
+            {selectedPark && (
+                <InfoWindow position={{
+                    lat: selectedPark.Detail.coordinates[0],
+                    lng: selectedPark.Detail.coordinates[1]
+                }}
+                    onCloseClick={() => {
+                        setSelectedPark(null)
+                    }}
+                >
+                    <div>
+                        <h2>{selectedPark.Detail.Name}</h2>
+                        <p>{selectedPark.Detail.Owner}</p>
+                    </div></InfoWindow>
+            )}
+        </GoogleMap>);
+    }else {
         return (<GoogleMap
             defaultZoom={10}
             defaultCenter={{ lat: 42.360081, lng: -71.058884 }}>
@@ -86,7 +127,7 @@ function Map() {
         </GoogleMap>
         );
     }
-
+    
 
 }
 const WrappedMap = withScriptjs(withGoogleMap(Map))
