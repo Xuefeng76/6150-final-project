@@ -25,7 +25,7 @@ const Search = () => {
   
   const onClick = (e) => {
     e.preventDefault();
-    alert(inputs);
+    
     navigate("/Rent", {
       state:inputs
 });

@@ -28,7 +28,7 @@ return (
 			<Heading>Services</Heading>
 			<FooterLink href="#">Writing</FooterLink>
 			<FooterLink href="#">Internships</FooterLink>
-			<FooterLink href="#">Coding</FooterLink>
+			<FooterLink href="#">House</FooterLink>
 			<FooterLink href="#">Teaching</FooterLink>
 		</Column>
 		<Column>
