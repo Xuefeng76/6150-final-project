@@ -77,7 +77,7 @@ function searchByName(name,email) {
     return(<div className="login">
     <div className="card">
       <h3>CREATE ACCOUNT</h3>
-      <form>
+      <form style={{height:"500px"}}>
         <input type="first name" id="fname" name="fname" placeholder="First Name" />
         <input type="Last Name" id="lname" name="lname" placeholder="Last Name" />
         <input type="email" id="email" name="email" placeholder="Your Email Addres" />

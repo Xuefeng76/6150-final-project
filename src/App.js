@@ -17,7 +17,7 @@ import NewAccount from './compoments/NewAccount';
 import HomeInfo from './compoments/HomeInfo';
 import HomePage from './compoments/HomePage';
 import PersonInfo from './compoments/PersonInfo';
-import GalleyTest from './compoments/GalleryTest';
+
 
 
 function App() {

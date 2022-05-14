@@ -1,9 +1,10 @@
 import React from "react";
 import rentInfo from "../data/home-rent.json"
 import Gallery from "react-photo-gallery";
+import Carousel, { Modal, ModalGateway } from "react-images";
 import { photos } from "./photos";
 import {CopyToClipboard} from 'react-copy-to-clipboard';
-import { createContext,useState } from "react";
+import { createContext,useState ,useCallback} from "react";
 import MyMapComponent from "./MyMapComponent";
 import { FaBed,FaDollarSign,FaBath } from 'react-icons/fa';
 
@@ -13,6 +14,18 @@ import {
   } from "react-router-dom";
  export const UserContextID = createContext(); 
 const HomeInfo=()=>{
+  const [currentImage, setCurrentImage] = useState(0);
+  const [viewerIsOpen, setViewerIsOpen] = useState(false);
+
+  const openLightbox = useCallback((event, { photo, index }) => {
+    setCurrentImage(index);
+    setViewerIsOpen(true);
+  }, []);
+
+  const closeLightbox = () => {
+    setCurrentImage(0);
+    setViewerIsOpen(false);
+  };
   const [isActive, setActive] = useState("false");
     const handleToggle = () => {
         setActive(!isActive);
@@ -48,7 +61,22 @@ const HomeInfo=()=>{
         </div>
     </div>
     <div className="gallery">
-      <Gallery photos={photos[Math.floor(Math.random()*photos.length)]} />;
+      {/* <Gallery photos={photos[Math.floor(Math.random()*photos.length)]} />; */}
+      <Gallery photos={photos} onClick={openLightbox} />
+        <ModalGateway>
+          {viewerIsOpen ? (
+            <Modal onClose={closeLightbox}>
+              <Carousel
+                currentIndex={currentImage}
+                views={photos.map(x => ({
+                  ...x,
+                  srcset: x.srcSet,
+                  caption: x.title
+                }))}
+              />
+            </Modal>
+          ) : null}
+        </ModalGateway>
     </div>
     
     {/* <button onClick={()=>{rentInfo.rentInfo[i-1].Detail.Name="bai"}}></button> */}

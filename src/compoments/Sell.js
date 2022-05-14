@@ -57,8 +57,8 @@ const handleLat=(event)=>{
  </div>
  
     
-
-    <form onSubmit={handleSubmit}>
+<div className="ds">
+<form onSubmit={handleSubmit}>
     <label style={{width:"500px",height:"50px",fontSize:"30px"}}>Sell your properities</label>
     <br/>
       <label>Enter your ID:
@@ -147,6 +147,8 @@ const handleLat=(event)=>{
         
         <input style={{marginTop:"30px"}} type="submit" />
     </form>
+</div>
+    
   </>);
 
 

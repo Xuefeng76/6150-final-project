@@ -46,7 +46,7 @@ const NewAccount=()=>{
     return(<div className="login">
     <div className="card">
       <h3>SIGN IN</h3>
-      <form>
+      <form style={{height:"300px"}}>
         <input type="email" id="Lemail" name="email" placeholder="Your Email Addres" />
         <input type="password" id="Lpassword" name="password" placeholder="Password" />
         <div className="form-btn">
@@ -57,9 +57,11 @@ const NewAccount=()=>{
           
         </div>
       </form>
-      <ul>
-        <li><a href="" onClick={()=>{navigate("../logIn");}}>If You Are New, Click Here!</a></li>
-      </ul>
+      <div>
+         <a href="" onClick={()=>{navigate("../logIn");}}>If You Are New, Click Here!</a>
+      </div>
+      
+      
     </div>
   </div>);
 }
