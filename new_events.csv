@@ -1,0 +1,1044 @@
+﻿event_id,match_id,team,event_team,event_time,event_type,action_player_1,action_player_2
+1,1,Argentina,home,23,Penalty,Messi,nan
+2,1,Argentina,home,36,Goal,Di María,Mac Allister
+3,1,France,away,41,Substitution,Kolo Muani,Dembélé
+4,1,France,away,41,Substitution,Thuram,Giroud
+5,1,Argentina,home,52,Yellow card,Fernández,nan
+6,1,France,away,55,Yellow card,Rabiot,nan
+7,1,Argentina,home,64,Substitution,Acuña,Di María
+8,1,France,away,71,Substitution,Camavinga,Hernandez
+9,1,France,away,71,Substitution,Coman,Griezmann
+10,1,France,away,80,Penalty,Mbappé,Penalty
+11,1,France,away,81,Goal,Mbappé,Thuram
+12,1,France,away,87,Yellow card,Thuram,nan
+13,1,France,away,95,Yellow card,Giroud,nan
+14,1,Argentina,home,98,Yellow card,Acuña,nan
+15,1,Argentina,home,90,Substitution,Montiel,Molina
+16,1,France,away,96,Substitution,Fofana,Rabiot
+17,1,Argentina,home,102,Substitution,Paredes,De Paul
+18,1,Argentina,home,103,Substitution,Martínez,Álvarez
+19,1,Argentina,home,108,Goal,Messi,nan
+20,1,France,away,113,Substitution,Konaté,Varane
+21,1,Argentina,home,114,Yellow card,Paredes,nan
+22,1,Argentina,home,116,Yellow card,Montiel,nan
+23,1,Argentina,home,116,Substitution,Pezzella,Mac Allister
+24,1,France,away,118,Penalty,Mbappé,Penalty
+25,1,Argentina,home,121,Substitution,Dybala,Tagliafico
+26,1,France,away,121,Substitution,Disasi,Koundé
+27,1,France,away,,PK,nan,nan
+28,1,Argentina,home,,PK,nan,nan
+29,1,France,away,,PK,nan,nan
+30,1,Argentina,home,,PK,nan,nan
+31,1,France,away,,PK,nan,nan
+32,1,Argentina,home,,PK,nan,nan
+33,1,France,away,,PK,nan,nan
+34,1,Argentina,home,,PK,nan,nan
+35,1,Argentina,home,126,Yellow card,Martínez,nan
+36,2,Croatia,home,7,Goal,Gvardiol,Perišić
+37,2,Morocco,away,9,Goal,Dari,nan
+38,2,Croatia,home,42,Goal,Oršić,Livaja
+39,2,Morocco,away,45,Substitution,Chair,Sabiri
+40,2,Morocco,away,56,Substitution,Ounahi,El Khannous
+41,2,Croatia,home,61,Substitution,Vlašić,Kramarić
+42,2,Morocco,away,64,Substitution,Benoun,Dari
+43,2,Morocco,away,64,Substitution,Zaroury,Boufal
+44,2,Croatia,home,66,Substitution,Petković,Livaja
+45,2,Croatia,home,67,Substitution,Pašalić,Majer
+46,2,Morocco,away,67,Substitution,Amallah,El Yamiq
+47,2,Morocco,away,69,Yellow card,Ounahi,nan
+48,2,Morocco,away,84,Yellow card,Amallah,nan
+49,2,Croatia,home,95,Substitution,Jakić,Oršić
+50,3,France,home,5,Goal,Hernandez,nan
+51,3,Morocco,away,21,Substitution,Amallah,Saïss
+52,3,Morocco,away,27,Yellow card,Boufal,nan
+53,3,Morocco,away,45,Substitution,Attiyat Allah,Mazraoui
+54,3,France,home,65,Substitution,Thuram,Giroud
+55,3,Morocco,away,66,Substitution,Hamdallah,En-Nesyri
+56,3,Morocco,away,67,Substitution,Aboukhlal,Boufal
+57,3,Morocco,away,78,Substitution,Ezzalzouli,Amallah
+58,3,France,home,79,Substitution,Kolo Muani,Dembélé
+59,3,France,home,79,Goal,Kolo Muani,nan
+60,4,Croatia,away,32,Yellow card,Livaković,nan
+61,4,Croatia,away,32,Yellow card,Kovačić,nan
+62,4,Argentina,home,34,Penalty,Messi,Penalty
+63,4,Argentina,home,39,Goal,Álvarez,nan
+64,4,Croatia,away,45,Substitution,Oršić,Sosa
+65,4,Croatia,away,45,Substitution,Vlašić,Pašalić
+66,4,Croatia,away,50,Substitution,Petković,Brozović
+67,4,Argentina,home,62,Substitution,Martínez,Paredes
+68,4,Argentina,home,68,Yellow card,Romero,nan
+69,4,Argentina,home,69,Goal,Álvarez,Messi
+70,4,Argentina,home,71,Yellow card,Otamendi,nan
+71,4,Croatia,away,72,Substitution,Livaja,Kramarić
+72,4,Argentina,home,74,Substitution,Palacios,De Paul
+73,4,Argentina,home,74,Substitution,Dybala,Álvarez
+74,4,Croatia,away,81,Substitution,Majer,Modrić
+75,4,Argentina,home,86,Substitution,Correa,Mac Allister
+76,4,Argentina,home,86,Substitution,Foyth,Molina
+77,5,France,away,17,Goal,Tchouaméni,Griezmann
+78,5,France,away,43,Yellow card,Griezmann,nan
+79,5,France,away,46,Yellow card,Dembélé,nan
+80,5,England,home,54,Penalty,Kane,Penalty
+81,5,France,away,78,Goal,Giroud,Griezmann
+82,5,England,home,79,Substitution,Mount,Henderson
+83,5,France,away,79,Substitution,Coman,Dembélé
+84,5,England,home,79,Substitution,Sterling,Saka
+85,5,France,away,82,Yellow card,Hernandez,nan
+86,5,England,home,84,Missed penalty,Kane,penalty
+87,5,England,home,85,Substitution,Rashford,Foden
+88,5,England,home,90,Yellow card,Maguire,nan
+89,5,England,home,98,Substitution,Grealish,Stones
+90,6,Morocco,home,42,Goal,En-Nesyri,Attiyat Allah
+91,6,Portugal,away,51,Substitution,Cancelo,Guerreiro
+92,6,Portugal,away,51,Substitution,Ronaldo,Neves
+93,6,Morocco,home,57,Substitution,Dari,Saïss
+94,6,Morocco,home,65,Substitution,Cheddira,Amallah
+95,6,Morocco,home,65,Substitution,Benoun,En-Nesyri
+96,6,Portugal,away,69,Substitution,Leão,Ramos
+97,6,Portugal,away,69,Substitution,Vitinha,Otávio
+98,6,Morocco,home,70,Yellow card,Dari,nan
+99,6,Portugal,away,79,Substitution,Horta,Dalot
+100,6,Morocco,home,82,Substitution,Aboukhlal,Ziyech
+101,6,Morocco,home,82,Substitution,Jabrane,Boufal
+102,6,Portugal,away,87,Yellow card,Vitinha,nan
+103,6,Morocco,home,91,Yellow card,Cheddira,nan
+104,6,Morocco,home,93,Second yellow card,Cheddira,nan
+105,7,Argentina,away,35,Goal,Molina,Messi
+106,7,Netherlands,home,43,Yellow card,Timber,nan
+107,7,Argentina,away,43,Yellow card,Acuña,nan
+108,7,Argentina,away,45,Yellow card,Romero,nan
+109,7,Netherlands,home,47,Yellow card,Weghorst,nan
+110,7,Netherlands,home,45,Substitution,Berghuis,Bergwijn
+111,7,Netherlands,home,45,Substitution,Koopmeiners,de Roon
+112,7,Netherlands,home,64,Substitution,de Jong,Blind
+113,7,Argentina,away,66,Substitution,Paredes,De Paul
+114,7,Argentina,away,73,Penalty,Messi,Penalty
+115,7,Netherlands,home,76,Yellow card,Memphis,nan
+116,7,Argentina,away,76,Yellow card,Martínez,nan
+117,7,Argentina,away,78,Substitution,Tagliafico,Acuña
+118,7,Argentina,away,78,Substitution,Pezzella,Romero
+119,7,Netherlands,home,78,Substitution,Weghorst,Memphis
+120,7,Argentina,away,82,Substitution,Martínez,Álvarez
+121,7,Netherlands,home,83,Goal,Weghorst,Berghuis
+122,7,Netherlands,home,88,Yellow card,Berghuis,nan
+123,7,Argentina,away,89,Yellow card,Paredes,nan
+124,7,Argentina,away,100,Yellow card,Messi,nan
+125,7,Netherlands,home,101,Goal,Weghorst,Koopmeiners
+126,7,Argentina,away,101,Yellow card,Otamendi,nan
+127,7,Netherlands,home,104,Yellow card,Bergwijn,nan
+128,7,Argentina,away,105,Substitution,Montiel,Molina
+129,7,Argentina,away,109,Yellow card,Montiel,nan
+130,7,Argentina,away,112,Substitution,Di María,Martínez
+131,7,Argentina,away,112,Yellow card,Pezzella,nan
+132,7,Netherlands,home,113,Substitution,Lang,Gakpo
+133,7,Netherlands,home,,PK,nan,nan
+134,7,Argentina,away,,PK,nan,nan
+135,7,Netherlands,home,,PK,nan,nan
+136,7,Argentina,away,,PK,nan,nan
+137,7,Netherlands,home,,PK,nan,nan
+138,7,Argentina,away,,PK,nan,nan
+139,7,Netherlands,home,,PK,nan,nan
+140,7,Argentina,away,,PK,nan,nan
+141,7,Netherlands,home,,PK,nan,nan
+142,7,Argentina,away,,PK,nan,nan
+143,7,Netherlands,home,128,Yellow card,Dumfries,nan
+144,7,Netherlands,home,128,Yellow card,Lang,nan
+145,7,Netherlands,home,128,Second yellow card,Dumfries,nan
+146,8,Brazil,away,25,Yellow card,Danilo,nan
+147,8,Croatia,home,31,Yellow card,Brozović,nan
+148,8,Brazil,away,56,Substitution,Antony,Raphinha
+149,8,Brazil,away,64,Substitution,Rodrygo,Júnior
+150,8,Brazil,away,68,Yellow card,Casemiro,nan
+151,8,Croatia,home,72,Substitution,Vlašić,Pašalić
+152,8,Croatia,home,72,Substitution,Petković,Kramarić
+153,8,Brazil,away,77,Yellow card,Marquinhos,nan
+154,8,Brazil,away,84,Substitution,Pedro,Richarlison
+155,8,Brazil,away,106,Goal,Neymar,Paquetá
+156,8,Croatia,home,105,Substitution,Majer,Kovačić
+157,8,Brazil,away,105,Substitution,Sandro,Militão
+158,8,Brazil,away,105,Substitution,Fred,Paquetá
+159,8,Croatia,home,110,Substitution,Budimir,Sosa
+160,8,Croatia,home,114,Substitution,Oršić,Brozović
+161,8,Croatia,home,117,Goal,Petković,Oršić
+162,8,Croatia,home,117,Yellow card,Petković,nan
+163,8,Croatia,home,,PK,nan,nan
+164,8,Brazil,away,,PK,nan,nan
+165,8,Croatia,home,,PK,nan,nan
+166,8,Brazil,away,,PK,nan,nan
+167,8,Croatia,home,,PK,nan,nan
+168,8,Brazil,away,,PK,nan,nan
+169,8,Croatia,home,,PK,nan,nan
+170,8,Brazil,away,,PK,nan,nan
+171,9,Portugal,home,17,Goal,Ramos,Félix
+172,9,Portugal,home,33,Goal,Pepe,Fernandes
+173,9,Switzerland,away,43,Yellow card,Schär,nan
+174,9,Switzerland,away,45,Substitution,Cömert,Schär
+175,9,Portugal,home,51,Goal,Ramos,nan
+176,9,Switzerland,away,54,Substitution,Zakaria,Freuler
+177,9,Switzerland,away,54,Substitution,Seferovic,Sow
+178,9,Portugal,home,55,Goal,Guerreiro,Ramos
+179,9,Switzerland,away,58,Goal,Akanji,nan
+180,9,Switzerland,away,59,Yellow card,Cömert,nan
+181,9,Switzerland,away,66,Substitution,Okafor,Vargas
+182,9,Portugal,home,67,Goal,Ramos,Félix
+183,9,Portugal,home,73,Substitution,Ronaldo,Félix
+184,9,Portugal,home,74,Substitution,Horta,Ramos
+185,9,Portugal,home,74,Substitution,Vitinha,Otávio
+186,9,Portugal,home,81,Substitution,Neves,Silva
+187,9,Portugal,home,87,Substitution,Leão,Fernandes
+188,9,Switzerland,away,89,Substitution,Jashari,Embolo
+189,9,Portugal,home,92,Goal,Leão,Guerreiro
+190,10,Spain,away,63,Substitution,Morata,Asensio
+191,10,Spain,away,63,Substitution,Soler,Gavi
+192,10,Morocco,home,66,Substitution,Ezzalzouli,Boufal
+193,10,Spain,away,75,Substitution,Williams,Torres
+194,10,Spain,away,76,Yellow card,Laporte,nan
+195,10,Morocco,home,82,Substitution,Cheddira,Amallah
+196,10,Morocco,home,82,Substitution,Sabiri,En-Nesyri
+197,10,Morocco,home,82,Substitution,Attiyat Allah,Mazraoui
+198,10,Morocco,home,84,Substitution,El Yamiq,Aguerd
+199,10,Morocco,home,90,Yellow card,Saïss,nan
+200,10,Spain,away,98,Substitution,Fati,Olmo
+201,10,Spain,away,98,Substitution,Baldé,Alba
+202,10,Spain,away,118,Substitution,Sarabia,Williams
+203,10,Morocco,home,120,Substitution,Benoun,Ounahi
+204,10,Morocco,home,,PK,nan,nan
+205,10,Spain,away,,PK,nan,nan
+206,10,Morocco,home,,PK,nan,nan
+207,10,Spain,away,,PK,nan,nan
+208,10,Morocco,home,,PK,nan,nan
+209,10,Spain,away,,PK,nan,nan
+210,10,Morocco,home,,PK,nan,nan
+211,11,Brazil,home,7,Goal,Júnior,Neymar
+212,11,Brazil,home,13,Penalty,Neymar,Penalty
+213,11,Brazil,home,29,Goal,Richarlison,Silva
+214,11,Brazil,home,36,Goal,Paquetá,Júnior
+215,11,South Korea,away,44,Yellow card,Woo-young,nan
+216,11,South Korea,away,45,Substitution,Chul,Jin-su
+217,11,South Korea,away,45,Substitution,Jun-ho,Woo-young
+218,11,Brazil,home,63,Substitution,Alves,Militão
+219,11,South Korea,away,65,Substitution,Seung-ho,In-beom
+220,11,Brazil,home,72,Substitution,Bremer,Danilo
+221,11,Brazil,home,72,Substitution,Martinelli,Júnior
+222,11,South Korea,away,74,Substitution,Kang-in,Jae-sung
+223,11,South Korea,away,76,Goal,Seung-ho,nan
+224,11,Brazil,home,80,Substitution,Weverton,Alisson
+225,11,South Korea,away,80,Substitution,Ui-jo,Gue-sung
+226,11,Brazil,home,81,Substitution,Rodrygo,Neymar
+227,12,Japan,home,43,Goal,Maeda,Yoshida
+228,12,Croatia,away,55,Goal,Perišić,Lovren
+229,12,Croatia,away,62,Substitution,Budimir,Petković
+230,12,Japan,home,64,Substitution,Mitoma,Nagatomo
+231,12,Japan,home,64,Substitution,Asano,Maeda
+232,12,Croatia,away,68,Substitution,Pašalić,Kramarić
+233,12,Japan,home,75,Substitution,Sakai,Kamada
+234,12,Japan,home,87,Substitution,Minamino,Dōan
+235,12,Croatia,away,90,Yellow card,Kovačić,nan
+236,12,Croatia,away,99,Substitution,Majer,Modrić
+237,12,Croatia,away,99,Substitution,Vlašić,Kovačić
+238,12,Japan,home,105,Substitution,Tanaka,Morita
+239,12,Croatia,away,105,Substitution,Livaja,Budimir
+240,12,Croatia,away,105,Substitution,Oršić,Perišić
+241,12,Croatia,away,116,Yellow card,Barišić,nan
+242,12,Japan,home,,PK,nan,nan
+243,12,Croatia,away,,PK,nan,nan
+244,12,Japan,home,,PK,nan,nan
+245,12,Croatia,away,,PK,nan,nan
+246,12,Japan,home,,PK,nan,nan
+247,12,Croatia,away,,PK,nan,nan
+248,12,Japan,home,,PK,nan,nan
+249,12,Croatia,away,,PK,nan,nan
+250,13,England,home,39,Goal,Henderson,Bellingham
+251,13,England,home,48,Goal,Kane,Foden
+252,13,Senegal,away,45,Substitution,Gueye,Ciss
+253,13,Senegal,away,45,Substitution,Dieng,Ndiaye
+254,13,Senegal,away,45,Substitution,Matar Sarr,Diatta
+255,13,England,home,57,Goal,Saka,Foden
+256,13,England,home,65,Substitution,Rashford,Saka
+257,13,England,home,65,Substitution,Grealish,Foden
+258,13,Senegal,away,72,Substitution,Diédhiou,Dia
+259,13,Senegal,away,76,Yellow card,Koulibaly,nan
+260,13,England,home,76,Substitution,Mount,Bellingham
+261,13,England,home,77,Substitution,Dier,Stones
+262,13,England,home,82,Substitution,Phillips,Henderson
+263,13,Senegal,away,84,Substitution,Ballo-Touré,Jakobs
+264,14,France,home,31,Yellow card,Tchouaméni,nan
+265,14,France,home,44,Goal,Giroud,Mbappé
+266,14,Poland,away,47,Yellow card,Bereszyński,nan
+267,14,Poland,away,64,Substitution,Milik,Szymański
+268,14,France,home,66,Substitution,Fofana,Tchouaméni
+269,14,Poland,away,71,Substitution,Zalewski,Kamiński
+270,14,Poland,away,71,Substitution,Bielik,Krychowiak
+271,14,France,home,74,Goal,Mbappé,Dembélé
+272,14,France,home,76,Substitution,Thuram,Giroud
+273,14,France,home,76,Substitution,Coman,Dembélé
+274,14,Poland,away,86,Substitution,Bednarek,Kiwior
+275,14,Poland,away,87,Substitution,Grosicki,Frankowski
+276,14,Poland,away,88,Yellow card,Cash,nan
+277,14,France,home,91,Goal,Mbappé,Thuram
+278,14,France,home,92,Substitution,Disasi,Koundé
+279,14,Poland,away,99,Penalty,Lewandowski,Penalty
+280,15,Australia,away,15,Yellow card,Irvine,nan
+281,15,Argentina,home,35,Goal,Messi,Otamendi
+282,15,Australia,away,38,Yellow card,Degenek,nan
+283,15,Argentina,home,50,Substitution,Martínez,Gómez
+284,15,Argentina,home,57,Goal,Álvarez,nan
+285,15,Australia,away,58,Substitution,Hrustić,Baccus
+286,15,Australia,away,58,Substitution,Goodwin,McGree
+287,15,Argentina,home,71,Substitution,Martínez,Álvarez
+288,15,Argentina,home,72,Substitution,Tagliafico,Acuña
+289,15,Australia,away,72,Substitution,Maclaren,Duke
+290,15,Australia,away,72,Substitution,Kuol,Leckie
+291,15,Australia,away,72,Substitution,Karačić,Degenek
+292,15,Australia,away,77,Own goal,Fernández,goal
+293,15,Argentina,home,80,Substitution,Montiel,Mac Allister
+294,15,Argentina,home,80,Substitution,Palacios,Molina
+295,16,Netherlands,home,10,Goal,Memphis,Dumfries
+296,16,Netherlands,home,46,Goal,Blind,Dumfries
+297,16,Netherlands,home,45,Substitution,Koopmeiners,Klaassen
+298,16,USA,away,45,Substitution,Reyna,Ferreira
+299,16,Netherlands,home,45,Substitution,Bergwijn,de Roon
+300,16,Netherlands,home,60,Yellow card,Koopmeiners,nan
+301,16,USA,away,67,Substitution,Aaronson,Weah
+302,16,USA,away,67,Substitution,Wright,McKennie
+303,16,USA,away,75,Substitution,Yedlin,Dest
+304,16,USA,away,76,Goal,Wright,Pulisic
+305,16,Netherlands,home,81,Goal,Dumfries,Blind
+306,16,Netherlands,home,83,Substitution,Simons,Memphis
+307,16,Netherlands,home,87,Yellow card,de Jong,nan
+308,16,USA,away,92,Substitution,Morris,Robinson
+309,16,Netherlands,home,93,Substitution,de Ligt,Aké
+310,16,Netherlands,home,93,Substitution,Weghorst,Gakpo
+311,17,Cameroon,home,6,Yellow card,Tolo,nan
+312,17,Brazil,away,7,Yellow card,Militão,nan
+313,17,Cameroon,home,28,Yellow card,Kunde,nan
+314,17,Cameroon,home,32,Yellow card,Fai,nan
+315,17,Brazil,away,54,Substitution,Marquinhos,Telles
+316,17,Brazil,away,55,Substitution,Ribeiro,Rodrygo
+317,17,Brazil,away,55,Substitution,Guimarães,Fred
+318,17,Cameroon,home,64,Substitution,Toko Ekambi,Mbeumo
+319,17,Brazil,away,64,Substitution,Pedro,Jesus
+320,17,Cameroon,home,68,Substitution,Ntcham,Kunde
+321,17,Brazil,away,79,Substitution,Raphinha,Antony
+322,17,Cameroon,home,81,Yellow card,Aboubakar,nan
+323,17,Brazil,away,85,Yellow card,Guimarães,nan
+324,17,Cameroon,home,86,Substitution,Ngom Mbekeli,Ngamaleu
+325,17,Cameroon,home,92,Goal,Aboubakar,Ngom Mbekeli
+326,17,Cameroon,home,93,Second yellow card,Aboubakar,nan
+327,18,Switzerland,away,15,Yellow card,Widmer,nan
+328,18,Switzerland,away,20,Goal,Shaqiri,Sow
+329,18,Serbia,home,26,Goal,Mitrović,Tadić
+330,18,Switzerland,away,34,Yellow card,Vargas,nan
+331,18,Serbia,home,35,Goal,Vlahović,nan
+332,18,Switzerland,away,44,Goal,Embolo,Widmer
+333,18,Serbia,home,47,Yellow card,Milinković-Savić,nan
+334,18,Switzerland,away,48,Goal,Freuler,Vargas
+335,18,Serbia,home,55,Substitution,Gudelj,Veljkovic
+336,18,Serbia,home,55,Substitution,Jović,Vlahović
+337,18,Serbia,home,56,Yellow card,Pavlović,nan
+338,18,Serbia,home,66,Yellow card,Rajković,nan
+339,18,Serbia,home,67,Substitution,Maksimović,Milinković-Savić
+340,18,Switzerland,away,68,Substitution,Fernandes,Sow
+341,18,Switzerland,away,69,Substitution,Zakaria,Shaqiri
+342,18,Serbia,home,78,Substitution,Đuričić,Tadić
+343,18,Serbia,home,78,Substitution,Radonjić,Živković
+344,18,Serbia,home,81,Yellow card,Gudelj,nan
+345,18,Serbia,home,82,Yellow card,Mitrović,nan
+346,18,Switzerland,away,83,Substitution,Fassnacht,Vargas
+347,18,Switzerland,away,95,Yellow card,Xhaka,nan
+348,18,Serbia,home,95,Yellow card,Milenković,nan
+349,18,Switzerland,away,96,Substitution,Okafor,Embolo
+350,18,Switzerland,away,99,Yellow card,Schär,nan
+351,18,Serbia,home,100,Yellow card,Lukić,nan
+352,19,Portugal,away,5,Goal,Horta,Dalot
+353,19,South Korea,home,27,Goal,Young-gwon,nan
+354,19,South Korea,home,36,Yellow card,Kang-in,nan
+355,19,Portugal,away,65,Substitution,Palhinha,Nunes
+356,19,Portugal,away,65,Substitution,Leão,Neves
+357,19,Portugal,away,65,Substitution,Silva,Ronaldo
+358,19,South Korea,home,66,Substitution,Hee-chan,Jae-sung
+359,19,South Korea,home,81,Substitution,Jun-ho,Young-gwon
+360,19,South Korea,home,81,Substitution,Ui-jo,Kang-in
+361,19,Portugal,away,81,Substitution,Silva,Vitinha
+362,19,Portugal,away,82,Substitution,Carvalho,Mário
+363,19,South Korea,home,91,Goal,Hee-chan,Heung-min
+364,19,South Korea,home,92,Yellow card,Hee-chan,nan
+365,19,South Korea,home,93,Substitution,Yu-min,Gue-sung
+366,20,Uruguay,away,19,Yellow card,Núñez,nan
+367,20,Ghana,home,21,Missed penalty,Ayew,penalty
+368,20,Uruguay,away,26,Goal,de Arrascaeta,nan
+369,20,Uruguay,away,32,Goal,de Arrascaeta,Suárez
+370,20,Uruguay,away,34,Substitution,Vecino,Bentancur
+371,20,Ghana,home,45,Substitution,Sulemana,Ayew
+372,20,Ghana,home,45,Substitution,Bukari,Ayew
+373,20,Uruguay,away,60,Yellow card,Suárez,nan
+374,20,Uruguay,away,66,Substitution,de Cruz,Pellistri
+375,20,Uruguay,away,66,Substitution,Cavani,Suárez
+376,20,Ghana,home,72,Substitution,Semenyo,Williams
+377,20,Ghana,home,72,Substitution,Kyereh,Abdul Samed
+378,20,Uruguay,away,80,Substitution,Gómez,Núñez
+379,20,Uruguay,away,80,Substitution,Canobbio,de Arrascaeta
+380,20,Ghana,home,86,Yellow card,Sulemana,nan
+381,20,Uruguay,away,87,Yellow card,Coates,nan
+382,20,Ghana,home,98,Substitution,Fatawu Issahaku,Kudus
+383,20,Ghana,home,99,Yellow card,Seidu,nan
+384,20,Uruguay,away,100,Yellow card,Cavani,nan
+385,20,Uruguay,away,100,Yellow card,Giménez,nan
+386,21,Spain,away,11,Goal,Morata,Azpilicueta
+387,21,Japan,home,39,Yellow card,Itakura,nan
+388,21,Japan,home,44,Yellow card,Taniguchi,nan
+389,21,Japan,home,45,Yellow card,Yoshida,nan
+390,21,Japan,home,45,Substitution,Dōan,Kubo
+391,21,Spain,away,45,Substitution,Carvajal,Azpilicueta
+392,21,Japan,home,45,Substitution,Mitoma,Nagatomo
+393,21,Japan,home,48,Goal,Dōan,Ito
+394,21,Japan,home,51,Goal,Tanaka,Mitoma
+395,21,Spain,away,57,Substitution,Torres,Williams
+396,21,Spain,away,57,Substitution,Asensio,Morata
+397,21,Japan,home,62,Substitution,Asano,Maeda
+398,21,Spain,away,68,Substitution,Fati,Gavi
+399,21,Spain,away,68,Substitution,Alba,Baldé
+400,21,Japan,home,69,Substitution,Tomiyasu,Kamada
+401,21,Japan,home,87,Substitution,Endo,Tanaka
+402,22,Germany,away,10,Goal,Gnabry,Raum
+403,22,Costa Rica,home,45,Substitution,Salas,Aguilera
+404,22,Germany,away,45,Substitution,Klostermann,Goretzka
+405,22,Germany,away,55,Substitution,Füllkrug,Gündoğan
+406,22,Costa Rica,home,58,Goal,Tejeda,nan
+407,22,Germany,away,66,Substitution,Havertz,Müller
+408,22,Germany,away,67,Substitution,Götze,Raum
+409,22,Costa Rica,home,70,Goal,Pablo Vargas,nan
+410,22,Germany,away,73,Goal,Havertz,Füllkrug
+411,22,Costa Rica,home,74,Substitution,Matarrita,Venegas
+412,22,Costa Rica,home,74,Substitution,Bennette,Fuller
+413,22,Costa Rica,home,76,Yellow card,Duarte,nan
+414,22,Germany,away,85,Goal,Havertz,Gnabry
+415,22,Germany,away,89,Goal,Füllkrug,Sané
+416,22,Costa Rica,home,93,Substitution,Contreras,Oviedo
+417,22,Costa Rica,home,93,Substitution,Wilson,Tejeda
+418,22,Germany,away,93,Substitution,Ginter,Süle
+419,23,Belgium,away,45,Substitution,Lukaku,Mertens
+420,23,Belgium,away,59,Substitution,Hazard,Trossard
+421,23,Croatia,home,64,Substitution,Petković,Livaja
+422,23,Croatia,home,64,Substitution,Pašalić,Kramarić
+423,23,Belgium,away,66,Yellow card,Dendoncker,nan
+424,23,Belgium,away,72,Substitution,Doku,Carrasco
+425,23,Belgium,away,72,Substitution,Tielemans,Dendoncker
+426,23,Belgium,away,87,Substitution,Hazard,Meunier
+427,23,Croatia,home,92,Substitution,Majer,Kovačić
+428,24,Morocco,away,4,Goal,Ziyech,nan
+429,24,Canada,home,7,Yellow card,Hoilett,nan
+430,24,Morocco,away,23,Goal,En-Nesyri,Hakimi
+431,24,Canada,home,26,Yellow card,Osorio,nan
+432,24,Canada,home,40,Own goal,Aguerd,goal
+433,24,Canada,home,47,Yellow card,Adekugbe,nan
+434,24,Canada,home,60,Substitution,Hutchinson,Kaye
+435,24,Canada,home,60,Substitution,David,Larin
+436,24,Canada,home,61,Substitution,Koné,Adekugbe
+437,24,Morocco,away,65,Substitution,Aboukhlal,Boufal
+438,24,Morocco,away,65,Substitution,Amallah,Sabiri
+439,24,Canada,home,65,Substitution,Laryea,Osorio
+440,24,Morocco,away,76,Substitution,Hamdallah,Ziyech
+441,24,Canada,home,76,Substitution,Wotherspoon,Hoilett
+442,24,Morocco,away,77,Substitution,El Yamiq,Ounahi
+443,24,Canada,home,84,Yellow card,Vitória,nan
+444,24,Morocco,away,85,Substitution,Jabrane,Hakimi
+445,25,Argentina,away,39,Missed penalty,Messi,penalty
+446,25,Poland,home,45,Substitution,Skóraś,Świderski
+447,25,Poland,home,45,Substitution,Kamiński,Frankowski
+448,25,Argentina,away,46,Goal,Mac Allister,Molina
+449,25,Argentina,away,49,Yellow card,Acuña,nan
+450,25,Argentina,away,59,Substitution,Paredes,Di María
+451,25,Argentina,away,59,Substitution,Tagliafico,Acuña
+452,25,Poland,home,62,Substitution,Szymański,Bielik
+453,25,Argentina,away,67,Goal,Álvarez,Fernández
+454,25,Poland,home,72,Substitution,Jędrzejczyk,Bereszyński
+455,25,Poland,home,78,Yellow card,Krychowiak,nan
+456,25,Argentina,away,79,Substitution,Martínez,Álvarez
+457,25,Argentina,away,79,Substitution,Pezzella,Fernández
+458,25,Poland,home,83,Substitution,Piątek,Krychowiak
+459,25,Argentina,away,84,Substitution,Almada,Mac Allister
+460,26,Mexico,away,16,Yellow card,Álvarez,nan
+461,26,Saudi Arabia,home,28,Yellow card,Al-Shehri,nan
+462,26,Saudi Arabia,home,34,Yellow card,Al-Hassan,nan
+463,26,Saudi Arabia,home,37,Substitution,Sharahili,Al-Bulaihi
+464,26,Mexico,away,45,Substitution,Antuna,Vega
+465,26,Saudi Arabia,home,45,Substitution,Madu,Al-Hassan
+466,26,Mexico,away,47,Goal,Martín,Montes
+467,26,Mexico,away,52,Goal,Chávez,nan
+468,26,Saudi Arabia,home,52,Yellow card,Al-Tambakti,nan
+469,26,Saudi Arabia,home,62,Substitution,Al-Aboud,Al-Shehri
+470,26,Mexico,away,77,Substitution,Rodríguez,Pineda
+471,26,Mexico,away,77,Substitution,Jiménez,Martín
+472,26,Saudi Arabia,home,81,Yellow card,Madu,nan
+473,26,Mexico,away,86,Substitution,Álvarez,Sánchez
+474,26,Mexico,away,86,Substitution,Funes Mori,Álvarez
+475,26,Saudi Arabia,home,88,Substitution,Bahebri,Al-Ghanam
+476,26,Saudi Arabia,home,91,Yellow card,Al-Amri,nan
+477,26,Saudi Arabia,home,95,Goal,Al-Dawsari,Bahebri
+478,26,Saudi Arabia,home,97,Yellow card,Bahebri,nan
+479,27,Tunisia,home,28,Yellow card,Kechrida,nan
+480,27,Tunisia,home,58,Goal,Khazri,Laïdouni
+481,27,Tunisia,home,60,Substitution,Jebali,Khazri
+482,27,France,away,63,Substitution,Saliba,Varane
+483,27,France,away,63,Substitution,Mbappé,Coman
+484,27,France,away,63,Substitution,Rabiot,Veretout
+485,27,France,away,73,Substitution,Griezmann,Fofana
+486,27,Tunisia,home,74,Substitution,Chaalali,Ali Romdhane
+487,27,France,away,79,Substitution,Dembélé,Guendouzi
+488,27,Tunisia,home,83,Substitution,Abdi,Ben Slimane
+489,27,France,away,100,Disallowed goal,goal,nan
+490,28,Australia,home,4,Yellow card,Behich,nan
+491,28,Australia,home,45,Substitution,Baccus,Goodwin
+492,28,Denmark,away,45,Substitution,Bah,Kristensen
+493,28,Australia,home,57,Yellow card,Degenek,nan
+494,28,Denmark,away,59,Substitution,Dolberg,Braithwaite
+495,28,Denmark,away,59,Substitution,Damsgaard,Jensen
+496,28,Australia,home,60,Goal,Leckie,McGree
+497,28,Denmark,away,69,Substitution,Skov,Skov Olsen
+498,28,Denmark,away,70,Substitution,Cornelius,Mæhle
+499,28,Australia,home,74,Substitution,Wright,McGree
+500,28,Denmark,away,75,Yellow card,Skov,nan
+501,28,Australia,home,82,Substitution,Maclaren,Duke
+502,28,Australia,home,89,Substitution,Hrustić,Leckie
+503,29,Wales,home,29,Yellow card,James,nan
+504,29,Wales,home,36,Substitution,Roberts,Williams
+505,29,Wales,home,45,Substitution,Johnson,Bale
+506,29,England,away,50,Goal,Rashford,nan
+507,29,England,away,51,Goal,Foden,Kane
+508,29,England,away,57,Substitution,Alexander-Arnold,Walker
+509,29,England,away,58,Substitution,Wilson,Kane
+510,29,England,away,58,Substitution,Phillips,Rice
+511,29,Wales,home,59,Substitution,Morrell,Davies
+512,29,Wales,home,61,Yellow card,Ramsey,nan
+513,29,England,away,65,Substitution,Trippier,Shaw
+514,29,England,away,68,Goal,Rashford,Phillips
+515,29,England,away,76,Substitution,Grealish,Rashford
+516,29,Wales,home,77,Substitution,Wilson,James
+517,29,Wales,home,81,Substitution,Colwill,Allen
+518,30,USA,away,38,Goal,Pulisic,Dest
+519,30,USA,away,43,Yellow card,Adams,nan
+520,30,Iran,home,48,Substitution,Karimi,Mohammadi
+521,30,USA,away,45,Substitution,Aaronson,Pulisic
+522,30,Iran,home,45,Substitution,Ghoddos,Azmoun
+523,30,USA,away,65,Substitution,Acosta,McKennie
+524,30,Iran,home,71,Substitution,Torabi,Nourollahi
+525,30,Iran,home,72,Substitution,Jalali,Hajsafi
+526,30,Iran,home,77,Yellow card,Hosseini,nan
+527,30,USA,away,77,Substitution,Wright,Sargent
+528,30,Iran,home,78,Substitution,Ansarifard,Gholizadeh
+529,30,USA,away,82,Substitution,Moore,Dest
+530,30,USA,away,82,Substitution,Zimmerman,Weah
+531,30,Iran,home,83,Yellow card,Kanani,nan
+532,30,Iran,home,96,Yellow card,Jalali,nan
+533,31,Netherlands,home,26,Goal,Gakpo,Klaassen
+534,31,Netherlands,home,49,Goal,de Jong,nan
+535,31,Netherlands,home,52,Yellow card,Aké,nan
+536,31,Qatar,away,64,Substitution,Boudiaf,Madibo
+537,31,Qatar,away,64,Substitution,Muntari,Ali
+538,31,Qatar,away,64,Substitution,Assadalla,Al Haydos
+539,31,Netherlands,home,66,Substitution,Berghuis,Klaassen
+540,31,Netherlands,home,66,Substitution,Janssen,Memphis
+541,31,Netherlands,home,68,Disallowed goal,goal,nan
+542,31,Netherlands,home,83,Substitution,Koopmeiners,de Roon
+543,31,Netherlands,home,83,Substitution,Weghorst,Gakpo
+544,31,Qatar,away,85,Substitution,Alaaeldin,Hatem
+545,31,Qatar,away,85,Substitution,Khidir,Mohammad
+546,31,Netherlands,home,86,Substitution,Taylor,de Jong
+547,32,Senegal,away,44,Penalty,Sarr,Penalty
+548,32,Ecuador,home,45,Substitution,Sarmiento,Franco
+549,32,Ecuador,home,45,Substitution,Cifuentes,Gruezo
+550,32,Ecuador,home,64,Substitution,Reasco,Estrada
+551,32,Senegal,away,66,Yellow card,Gueye,nan
+552,32,Ecuador,home,67,Goal,Caicedo,Torres
+553,32,Senegal,away,70,Goal,Koulibaly,nan
+554,32,Senegal,away,74,Substitution,Mendy,Ciss
+555,32,Senegal,away,75,Substitution,Dieng,Ndiaye
+556,32,Ecuador,home,85,Substitution,Porozo,Preciado
+557,32,Senegal,away,95,Substitution,Abou Cissé,Dia
+558,33,Uruguay,away,6,Yellow card,Bentancur,nan
+559,33,Portugal,home,38,Yellow card,Neves,nan
+560,33,Portugal,home,42,Substitution,Guerreiro,Mendes
+561,33,Uruguay,away,44,Yellow card,Olivera,nan
+562,33,Portugal,home,54,Goal,Fernandes,Guerreiro
+563,33,Uruguay,away,62,Substitution,de Arrascaeta,Vecino
+564,33,Uruguay,away,62,Substitution,Pellistri,Godín
+565,33,Portugal,home,69,Substitution,Leão,Neves
+566,33,Uruguay,away,72,Substitution,Gómez,Núñez
+567,33,Uruguay,away,73,Substitution,Suárez,Cavani
+568,33,Portugal,home,77,Yellow card,Félix,nan
+569,33,Portugal,home,82,Substitution,Nunes,Félix
+570,33,Portugal,home,82,Substitution,Ramos,Ronaldo
+571,33,Portugal,home,82,Substitution,Palhinha,Carvalho
+572,33,Uruguay,away,86,Substitution,Viña,Olivera
+573,33,Portugal,home,89,Yellow card,Dias,nan
+574,33,Portugal,home,93,Penalty,Fernandes,Penalty
+575,34,Brazil,home,45,Substitution,Rodrygo,Paquetá
+576,34,Switzerland,away,50,Yellow card,Rieder,nan
+577,34,Brazil,home,52,Yellow card,Fred,nan
+578,34,Brazil,home,58,Substitution,Guimarães,Fred
+579,34,Switzerland,away,59,Substitution,Fernandes,Vargas
+580,34,Switzerland,away,59,Substitution,Steffen,Rieder
+581,34,Brazil,home,65,Disallowed goal,goal,nan
+582,34,Brazil,home,73,Substitution,Jesus,Richarlison
+583,34,Brazil,home,73,Substitution,Antony,Raphinha
+584,34,Switzerland,away,76,Substitution,Aebischer,Sow
+585,34,Switzerland,away,76,Substitution,Seferovic,Embolo
+586,34,Brazil,home,83,Goal,Casemiro,Rodrygo
+587,34,Switzerland,away,86,Substitution,Frei,Widmer
+588,34,Brazil,home,86,Substitution,Telles,Sandro
+589,35,Ghana,away,21,Yellow card,Amartey,nan
+590,35,Ghana,away,24,Goal,Salisu,nan
+591,35,South Korea,home,27,Yellow card,Woo-young,nan
+592,35,Ghana,away,34,Goal,Kudus,Ayew
+593,35,South Korea,home,45,Substitution,Sang-ho,Woo-yeong
+594,35,South Korea,home,57,Substitution,Kang-in,Chang-hoon
+595,35,South Korea,home,58,Goal,Gue-sung,Kang-in
+596,35,South Korea,home,61,Goal,Gue-sung,Jin-su
+597,35,Ghana,away,68,Goal,Kudus,Williams
+598,35,Ghana,away,73,Yellow card,Lamptey,nan
+599,35,South Korea,home,77,Yellow card,Young-gwon,nan
+600,35,Ghana,away,78,Substitution,Kyereh,Ayew
+601,35,Ghana,away,78,Substitution,Odoi,Lamptey
+602,35,Ghana,away,78,Substitution,Sulemana,Ayew
+603,35,South Korea,home,79,Substitution,Ui-jo,Woo-young
+604,35,Ghana,away,83,Substitution,Djiku,Kudus
+605,35,Ghana,away,88,Substitution,Rahman,Mensah
+606,35,South Korea,home,92,Substitution,Kyung-won,Min-jae
+607,36,Cameroon,home,24,Yellow card,Nkoulou,nan
+608,36,Cameroon,home,29,Goal,Castelletto,nan
+609,36,Cameroon,home,30,Yellow card,Bassogog,nan
+610,36,Serbia,away,46,Goal,Pavlović,Tadić
+611,36,Serbia,away,48,Goal,Milinković-Savić,Živković
+612,36,Serbia,away,49,Yellow card,Jović,nan
+613,36,Serbia,away,53,Goal,Mitrović,Živković
+614,36,Cameroon,home,55,Substitution,Aboubakar,Hongla
+615,36,Serbia,away,56,Substitution,Mitrović,Pavlović
+616,36,Cameroon,home,63,Goal,Aboubakar,Castelletto
+617,36,Cameroon,home,66,Goal,Maxim Choupo-Moting,Aboubakar
+618,36,Cameroon,home,67,Substitution,Ondoua,Kunde
+619,36,Cameroon,home,67,Substitution,Bassogog,Toko Ekambi
+620,36,Serbia,away,78,Substitution,Babić,Veljkovic
+621,36,Serbia,away,78,Substitution,Radonjić,Živković
+622,36,Serbia,away,79,Substitution,Grujić,Milinković-Savić
+623,36,Cameroon,home,81,Substitution,Oum Gouet,Zambo Anguissa
+624,36,Cameroon,home,81,Substitution,Nkoudou,Mbeumo
+625,36,Serbia,away,92,Substitution,Đuričić,Kostić
+626,36,Serbia,away,93,Yellow card,Milenković,nan
+627,37,Germany,away,37,Yellow card,Kehrer,nan
+628,37,Germany,away,39,Disallowed goal,goal,nan
+629,37,Spain,home,44,Yellow card,Busquets,nan
+630,37,Spain,home,54,Substitution,Morata,Torres
+631,37,Germany,away,58,Yellow card,Goretzka,nan
+632,37,Germany,away,60,Yellow card,Kimmich,nan
+633,37,Spain,home,62,Goal,Morata,Alba
+634,37,Spain,home,66,Substitution,Koke,Asensio
+635,37,Spain,home,66,Substitution,Williams,Gavi
+636,37,Germany,away,70,Substitution,Sané,Gündoğan
+637,37,Germany,away,70,Substitution,Füllkrug,Müller
+638,37,Germany,away,70,Substitution,Klostermann,Kehrer
+639,37,Spain,home,82,Substitution,Baldé,Alba
+640,37,Germany,away,83,Goal,Füllkrug,Musiala
+641,37,Germany,away,85,Substitution,Hofmann,Gnabry
+642,37,Germany,away,87,Substitution,Schlotterbeck,Raum
+643,38,Canada,away,2,Goal,Davies,Buchanan
+644,38,Croatia,home,36,Goal,Kramarić,Perišić
+645,38,Croatia,home,44,Goal,Livaja,Juranović
+646,38,Canada,away,45,Substitution,Koné,Eustáquio
+647,38,Canada,away,45,Substitution,Osorio,Larin
+648,38,Canada,away,52,Yellow card,Buchanan,nan
+649,38,Croatia,home,56,Yellow card,Lovren,nan
+650,38,Croatia,home,60,Substitution,Petković,Livaja
+651,38,Canada,away,62,Substitution,Hoilett,Laryea
+652,38,Croatia,home,70,Goal,Kramarić,Perišić
+653,38,Canada,away,72,Substitution,Cavallini,David
+654,38,Croatia,home,73,Substitution,Vlašić,Kramarić
+655,38,Canada,away,73,Substitution,Adekugbe,Hutchinson
+656,38,Canada,away,85,Yellow card,Miller,nan
+657,38,Croatia,home,85,Yellow card,Modrić,nan
+658,38,Croatia,home,86,Substitution,Oršić,Perišić
+659,38,Croatia,home,86,Substitution,Pašalić,Modrić
+660,38,Croatia,home,86,Substitution,Majer,Kovačić
+661,38,Croatia,home,94,Goal,Majer,Oršić
+662,39,Belgium,home,28,Yellow card,Onana,nan
+663,39,Morocco,away,47,Disallowed goal,goal,nan
+664,39,Belgium,home,60,Substitution,Tielemans,Onana
+665,39,Belgium,home,60,Substitution,Mertens,Hazard
+666,39,Morocco,away,67,Substitution,Attiyat Allah,Amallah
+667,39,Morocco,away,68,Substitution,Sabiri,Hakimi
+668,39,Morocco,away,73,Goal,Saïss,Sabiri
+669,39,Morocco,away,73,Substitution,Aboukhlal,Boufal
+670,39,Morocco,away,73,Substitution,Hamdallah,En-Nesyri
+671,39,Belgium,home,75,Substitution,Trossard,Hazard
+672,39,Belgium,home,75,Substitution,De Ketelaere,Batshuayi
+673,39,Morocco,away,78,Substitution,El Yamiq,Ounahi
+674,39,Belgium,home,81,Substitution,Lukaku,Meunier
+675,39,Morocco,away,92,Goal,Aboukhlal,Ziyech
+676,39,Morocco,away,95,Yellow card,Sabiri,nan
+677,40,Costa Rica,away,41,Yellow card,Contreras,nan
+678,40,Japan,home,44,Yellow card,Yamane,nan
+679,40,Japan,home,45,Substitution,Ito,Nagatomo
+680,40,Japan,home,45,Substitution,Asano,Ueda
+681,40,Costa Rica,away,61,Yellow card,Borges,nan
+682,40,Japan,home,62,Substitution,Mitoma,Yamane
+683,40,Costa Rica,away,65,Substitution,Aguilera,Torres
+684,40,Costa Rica,away,65,Substitution,Bennette,Contreras
+685,40,Japan,home,67,Substitution,Ito,Dōan
+686,40,Costa Rica,away,70,Yellow card,Calvo,nan
+687,40,Costa Rica,away,81,Goal,Fuller,Tejeda
+688,40,Japan,home,82,Substitution,Minamino,Soma
+689,40,Japan,home,84,Yellow card,Itakura,nan
+690,40,Costa Rica,away,89,Substitution,Salas,Borges
+691,40,Japan,home,93,Yellow card,Endo,nan
+692,40,Costa Rica,away,95,Substitution,Chacón,Campbell
+693,41,Mexico,away,22,Yellow card,Araujo,nan
+694,41,Mexico,away,42,Substitution,Gutiérrez,Guardado
+695,41,Argentina,home,43,Yellow card,Montiel,nan
+696,41,Mexico,away,50,Yellow card,Gutiérrez,nan
+697,41,Argentina,home,57,Substitution,Fernández,Rodríguez
+698,41,Argentina,home,63,Substitution,Álvarez,Martínez
+699,41,Argentina,home,63,Substitution,Molina,Montiel
+700,41,Argentina,home,64,Goal,Messi,Di María
+701,41,Mexico,away,66,Substitution,Antuna,Vega
+702,41,Mexico,away,66,Yellow card,Herrera,nan
+703,41,Mexico,away,66,Substitution,Jiménez,Álvarez
+704,41,Argentina,home,69,Substitution,Romero,Di María
+705,41,Argentina,home,69,Substitution,Palacios,Mac Allister
+706,41,Mexico,away,73,Substitution,Alvarado,Lozano
+707,41,Argentina,home,87,Goal,Fernández,Messi
+708,41,Mexico,away,89,Yellow card,Alvarado,nan
+709,42,Denmark,away,20,Yellow card,Christensen,nan
+710,42,Denmark,away,23,Yellow card,Cornelius,nan
+711,42,France,home,43,Yellow card,Koundé,nan
+712,42,Denmark,away,45,Substitution,Braithwaite,Cornelius
+713,42,France,home,61,Goal,Mbappé,Hernandez
+714,42,France,home,62,Substitution,Thuram,Giroud
+715,42,Denmark,away,68,Goal,Christensen,Andersen
+716,42,Denmark,away,73,Substitution,Dolberg,Damsgaard
+717,42,France,home,75,Substitution,Konaté,Varane
+718,42,France,home,75,Substitution,Coman,Dembélé
+719,42,Denmark,away,85,Substitution,Nørgaard,Lindstrøm
+720,42,France,home,86,Goal,Mbappé,Griezmann
+721,42,Denmark,away,92,Substitution,Bah,Kristensen
+722,42,France,home,93,Substitution,Fofana,Griezmann
+723,43,Poland,home,15,Yellow card,Kiwior,nan
+724,43,Poland,home,16,Yellow card,Cash,nan
+725,43,Poland,home,19,Yellow card,Milik,nan
+726,43,Saudi Arabia,away,20,Yellow card,Al-Malki,nan
+727,43,Poland,home,39,Goal,Zieliński,Lewandowski
+728,43,Saudi Arabia,away,46,Missed penalty,Al-Dawsari,penalty
+729,43,Saudi Arabia,away,49,Yellow card,Al-Amri,nan
+730,43,Saudi Arabia,away,45,Substitution,Al-Abed,Al-Najei
+731,43,Poland,home,63,Substitution,Kamiński,Zieliński
+732,43,Saudi Arabia,away,65,Substitution,Al-Ghanam,Al-Breik
+733,43,Poland,home,71,Substitution,Piątek,Milik
+734,43,Poland,home,82,Goal,Lewandowski,nan
+735,43,Saudi Arabia,away,85,Substitution,Al-Aboud,Al-Malki
+736,43,Saudi Arabia,away,86,Substitution,Al-Dawsari,Al-Shehri
+737,43,Saudi Arabia,away,95,Substitution,Bahebri,Al-Abed
+738,44,Australia,away,23,Goal,Duke,nan
+739,44,Tunisia,home,26,Yellow card,Laïdouni,nan
+740,44,Tunisia,home,45,Substitution,Sassi,Dräger
+741,44,Australia,away,64,Substitution,Maclaren,Duke
+742,44,Australia,away,64,Substitution,Hrustić,McGree
+743,44,Tunisia,home,64,Yellow card,Abdi,nan
+744,44,Tunisia,home,67,Substitution,Khazri,Laïdouni
+745,44,Tunisia,home,73,Substitution,Yassine Khenissi,Jebali
+746,44,Tunisia,home,73,Substitution,Kechrida,Bronn
+747,44,Australia,away,75,Substitution,Degenek,Karačić
+748,44,Australia,away,85,Substitution,Mabil,Goodwin
+749,44,Australia,away,85,Substitution,Baccus,Leckie
+750,44,Tunisia,home,93,Yellow card,Sassi,nan
+751,45,England,home,68,Substitution,Grealish,Sterling
+752,45,England,home,69,Substitution,Henderson,Bellingham
+753,45,USA,away,77,Substitution,Aaronson,McKennie
+754,45,USA,away,78,Substitution,Moore,Dest
+755,45,England,home,78,Substitution,Rashford,Saka
+756,45,USA,away,83,Substitution,Reyna,Weah
+757,45,USA,away,83,Substitution,Sargent,Wright
+758,46,Netherlands,home,6,Goal,Gakpo,Klaassen
+759,46,Netherlands,home,45,Substitution,Memphis,Bergwijn
+760,46,Ecuador,away,49,Goal,Valencia,nan
+761,46,Ecuador,away,57,Yellow card,Méndez,nan
+762,46,Netherlands,home,69,Substitution,Berghuis,Klaassen
+763,46,Ecuador,away,74,Substitution,Sarmiento,Estrada
+764,46,Netherlands,home,79,Substitution,de Roon,Koopmeiners
+765,46,Netherlands,home,80,Substitution,Weghorst,Gakpo
+766,46,Ecuador,away,90,Substitution,Rodríguez,Valencia
+767,46,Ecuador,away,90,Substitution,Ibarra,Plata
+768,47,Qatar,home,20,Yellow card,Mohammad,nan
+769,47,Senegal,away,30,Yellow card,Dia,nan
+770,47,Senegal,away,41,Goal,Dia,nan
+771,47,Qatar,home,47,Yellow card,Ahmed,nan
+772,47,Senegal,away,48,Goal,Diédhiou,Jakobs
+773,47,Senegal,away,52,Yellow card,Jakobs,nan
+774,47,Senegal,away,64,Substitution,Ciss,Diatta
+775,47,Qatar,home,69,Substitution,Hatem,Boudiaf
+776,47,Senegal,away,74,Substitution,Dieng,Diédhiou
+777,47,Qatar,home,74,Substitution,Muntari,Al Haydos
+778,47,Senegal,away,74,Substitution,Ndiaye,Sarr
+779,47,Senegal,away,77,Substitution,Abou Cissé,Jakobs
+780,47,Senegal,away,77,Substitution,Matar Sarr,Mendy
+781,47,Qatar,home,78,Goal,Muntari,Mohammad
+782,47,Qatar,home,83,Substitution,Salman,Ahmed
+783,47,Qatar,home,83,Substitution,Waad,Miguel
+784,47,Senegal,away,84,Goal,Dieng,Ndiaye
+785,47,Senegal,away,87,Yellow card,Ciss,nan
+786,47,Qatar,home,91,Yellow card,Madibo,nan
+787,48,Iran,away,15,Disallowed goal,goal,nan
+788,48,Wales,home,48,Yellow card,Rodon,nan
+789,48,Wales,home,57,Substitution,Johnson,Roberts
+790,48,Wales,home,58,Substitution,James,Wilson
+791,48,Iran,away,68,Substitution,Ansarifard,Azmoun
+792,48,Iran,away,77,Substitution,Jahanbakhsh,Gholizadeh
+793,48,Iran,away,77,Substitution,Torabi,Hajsafi
+794,48,Wales,home,77,Substitution,Allen,Ampadu
+795,48,Iran,away,78,Substitution,Cheshmi,Nourollahi
+796,48,Iran,away,83,Substitution,Karimi,Ezatolahi
+797,48,Wales,home,86,Red card,Hennessey,nan
+798,48,Wales,home,87,Substitution,Ward,Ramsey
+799,48,Iran,away,94,Yellow card,Rezaeian,nan
+800,48,Iran,away,95,Yellow card,Jahanbakhsh,nan
+801,48,Iran,away,98,Goal,Cheshmi,nan
+802,48,Iran,away,101,Goal,Rezaeian,Taremi
+803,49,Serbia,away,7,Yellow card,Pavlović,nan
+804,49,Serbia,away,49,Yellow card,Gudelj,nan
+805,49,Serbia,away,57,Substitution,Ilić,Gudelj
+806,49,Serbia,away,57,Substitution,Radonjić,Živković
+807,49,Brazil,home,62,Goal,Richarlison,nan
+808,49,Serbia,away,64,Yellow card,Lukić,nan
+809,49,Serbia,away,66,Substitution,Lazović,Lukić
+810,49,Serbia,away,66,Substitution,Vlahović,Mladenović
+811,49,Brazil,home,73,Goal,Richarlison,Júnior
+812,49,Brazil,home,75,Substitution,Fred,Paquetá
+813,49,Brazil,home,76,Substitution,Rodrygo,Júnior
+814,49,Brazil,home,79,Substitution,Jesus,Richarlison
+815,49,Brazil,home,80,Substitution,Antony,Neymar
+816,49,Serbia,away,83,Substitution,Maksimović,Mitrović
+817,49,Brazil,home,87,Substitution,Martinelli,Raphinha
+818,50,Ghana,away,45,Yellow card,Kudus,nan
+819,50,Ghana,away,49,Yellow card,Ayew,nan
+820,50,Portugal,home,56,Substitution,Carvalho,Otávio
+821,50,Ghana,away,57,Yellow card,Seidu,nan
+822,50,Portugal,home,65,Penalty,Ronaldo,Penalty
+823,50,Ghana,away,66,Substitution,Lamptey,Seidu
+824,50,Ghana,away,73,Goal,Ayew,nan
+825,50,Ghana,away,77,Substitution,Bukari,Kudus
+826,50,Portugal,home,77,Substitution,Leão,Neves
+827,50,Ghana,away,77,Substitution,Ayew,Ayew
+828,50,Portugal,home,78,Goal,Félix,Fernandes
+829,50,Portugal,home,80,Goal,Leão,Fernandes
+830,50,Portugal,home,88,Substitution,Palhinha,Silva
+831,50,Portugal,home,88,Substitution,Mário,Félix
+832,50,Portugal,home,88,Substitution,Ramos,Ronaldo
+833,50,Ghana,away,89,Goal,Bukari,nan
+834,50,Portugal,home,91,Yellow card,Pereira,nan
+835,50,Ghana,away,91,Yellow card,Williams,nan
+836,50,Ghana,away,92,Substitution,Kyereh,Djiku
+837,50,Ghana,away,92,Substitution,Semenyo,Abdul Samed
+838,50,Portugal,home,95,Yellow card,Fernandes,nan
+839,51,Uruguay,home,57,Yellow card,Cáceres,nan
+840,51,Uruguay,home,64,Substitution,Cavani,Suárez
+841,51,South Korea,away,74,Substitution,Gue-sung,Ui-jo
+842,51,South Korea,away,74,Substitution,Jun-ho,Jae-sung
+843,51,South Korea,away,75,Substitution,Kang-in,Sang-ho
+844,51,Uruguay,home,78,Substitution,de Cruz,Vecino
+845,51,Uruguay,home,79,Substitution,Viña,Olivera
+846,51,South Korea,away,88,Yellow card,Gue-sung,nan
+847,51,Uruguay,home,88,Substitution,Varela,Pellistri
+848,52,Cameroon,away,36,Yellow card,Fai,nan
+849,52,Switzerland,home,48,Goal,Embolo,Shaqiri
+850,52,Switzerland,home,64,Yellow card,Elvedi,nan
+851,52,Cameroon,away,68,Substitution,Ondoua,Hongla
+852,52,Switzerland,home,71,Substitution,Frei,Sow
+853,52,Switzerland,home,72,Substitution,Okafor,Shaqiri
+854,52,Switzerland,home,72,Substitution,Seferovic,Embolo
+855,52,Cameroon,away,74,Substitution,Aboubakar,Maxim Choupo-Moting
+856,52,Cameroon,away,74,Substitution,Nkoudou,Toko Ekambi
+857,52,Switzerland,home,81,Substitution,Rieder,Vargas
+858,52,Cameroon,away,81,Substitution,Ngamaleu,Mbeumo
+859,52,Switzerland,home,83,Yellow card,Akanji,nan
+860,52,Switzerland,home,90,Substitution,Cömert,Rodríguez
+861,53,Belgium,home,9,Yellow card,Carrasco,nan
+862,53,Canada,away,10,Missed penalty,Davies,penalty
+863,53,Belgium,home,44,Goal,Batshuayi,Alderweireld
+864,53,Belgium,home,45,Substitution,Meunier,Carrasco
+865,53,Belgium,home,45,Substitution,Onana,Tielemans
+866,53,Belgium,home,53,Yellow card,Meunier,nan
+867,53,Belgium,home,56,Yellow card,Onana,nan
+868,53,Canada,away,58,Substitution,Larin,Hoilett
+869,53,Canada,away,58,Substitution,Koné,Hutchinson
+870,53,Belgium,home,62,Substitution,Trossard,Hazard
+871,53,Canada,away,74,Substitution,Adekugbe,Laryea
+872,53,Belgium,home,78,Substitution,Openda,Batshuayi
+873,53,Canada,away,81,Yellow card,Davies,nan
+874,53,Canada,away,81,Substitution,Osorio,Eustáquio
+875,53,Canada,away,81,Substitution,Millar,Buchanan
+876,53,Canada,away,83,Yellow card,Johnston,nan
+877,54,Spain,home,11,Goal,Olmo,nan
+878,54,Spain,home,21,Goal,Asensio,Alba
+879,54,Spain,home,31,Penalty,Torres,Penalty
+880,54,Costa Rica,away,45,Substitution,Waston,Martínez
+881,54,Spain,home,54,Goal,Torres,nan
+882,54,Spain,home,57,Substitution,Morata,Torres
+883,54,Spain,home,57,Substitution,Soler,Pedri
+884,54,Costa Rica,away,61,Substitution,Zamora,Contreras
+885,54,Costa Rica,away,61,Substitution,Ruiz,Bennette
+886,54,Spain,home,64,Substitution,Baldé,Alba
+887,54,Spain,home,64,Substitution,Koke,Busquets
+888,54,Costa Rica,away,68,Yellow card,Calvo,nan
+889,54,Spain,home,69,Substitution,Williams,Asensio
+890,54,Costa Rica,away,72,Substitution,Aguilera,Borges
+891,54,Spain,home,74,Goal,Gavi,Morata
+892,54,Costa Rica,away,82,Substitution,Matarrita,Oviedo
+893,54,Spain,home,90,Goal,Soler,nan
+894,54,Spain,home,92,Goal,Morata,Olmo
+895,54,Costa Rica,away,97,Yellow card,Campbell,nan
+896,55,Germany,home,33,Penalty,Gündoğan,Penalty
+897,55,Germany,home,49,Disallowed goal,goal,nan
+898,55,Japan,away,45,Substitution,Tomiyasu,Kubo
+899,55,Japan,away,57,Substitution,Mitoma,Nagatomo
+900,55,Japan,away,57,Substitution,Asano,Maeda
+901,55,Germany,home,67,Substitution,Hofmann,Müller
+902,55,Germany,home,67,Substitution,Goretzka,Gündoğan
+903,55,Japan,away,71,Substitution,Dōan,Tanaka
+904,55,Japan,away,74,Substitution,Minamino,Sakai
+905,55,Japan,away,75,Goal,Dōan,nan
+906,55,Germany,home,79,Substitution,Götze,Musiala
+907,55,Germany,home,79,Substitution,Füllkrug,Havertz
+908,55,Japan,away,83,Goal,Asano,Itakura
+909,55,Germany,home,90,Substitution,Moukoko,Gnabry
+910,56,Croatia,away,45,Substitution,Pašalić,Vlašić
+911,56,Morocco,home,60,Substitution,Attiyat Allah,Mazraoui
+912,56,Morocco,home,65,Substitution,Ezzalzouli,Boufal
+913,56,Croatia,away,71,Substitution,Livaja,Kramarić
+914,56,Morocco,home,78,Yellow card,Amrabat,nan
+915,56,Croatia,away,79,Substitution,Majer,Kovačić
+916,56,Morocco,home,81,Substitution,Hamdallah,En-Nesyri
+917,56,Morocco,home,82,Substitution,Sabiri,Ounahi
+918,56,Croatia,away,90,Substitution,Oršić,Perišić
+919,57,Australia,away,9,Goal,Goodwin,Leckie
+920,57,France,home,13,Substitution,Hernandez,Hernandez
+921,57,France,home,27,Goal,Rabiot,Hernandez
+922,57,France,home,32,Goal,Giroud,Rabiot
+923,57,Australia,away,55,Yellow card,Duke,nan
+924,57,Australia,away,56,Substitution,Cummings,Duke
+925,57,France,home,68,Goal,Mbappé,Dembélé
+926,57,France,home,71,Goal,Giroud,Mbappé
+927,57,Australia,away,73,Substitution,Mabil,McGree
+928,57,Australia,away,73,Substitution,Kuol,Goodwin
+929,57,France,home,77,Substitution,Fofana,Tchouaméni
+930,57,France,home,77,Substitution,Coman,Dembélé
+931,57,Australia,away,80,Yellow card,Irvine,nan
+932,57,Australia,away,85,Substitution,Baccus,Irvine
+933,57,Australia,away,85,Substitution,Degenek,Atkinson
+934,57,France,home,89,Substitution,Koundé,Pavard
+935,57,France,home,89,Substitution,Thuram,Giroud
+936,57,Australia,away,94,Yellow card,Mooy,nan
+937,58,Mexico,home,29,Yellow card,Sánchez,nan
+938,58,Poland,away,45,Substitution,Bielik,Zalewski
+939,58,Mexico,home,56,Yellow card,Moreno,nan
+940,58,Poland,away,58,Missed penalty,Lewandowski,penalty
+941,58,Mexico,home,71,Substitution,Rodríguez,Herrera
+942,58,Mexico,home,71,Substitution,Jiménez,Martín
+943,58,Poland,away,72,Substitution,Frankowski,Szymański
+944,58,Poland,away,76,Yellow card,Frankowski,nan
+945,58,Mexico,home,84,Substitution,Antuna,Vega
+946,58,Poland,away,87,Substitution,Milik,Zieliński
+947,59,Denmark,home,24,Yellow card,Kristensen,nan
+948,59,Denmark,home,46,Substitution,Damsgaard,Delaney
+949,59,Denmark,home,65,Substitution,Jensen,Kjær
+950,59,Denmark,home,65,Substitution,Lindstrøm,Skov Olsen
+951,59,Denmark,home,65,Substitution,Cornelius,Dolberg
+952,59,Tunisia,away,67,Substitution,Sliti,Ben Slimane
+953,59,Denmark,home,78,Yellow card,Jensen,nan
+954,59,Tunisia,away,80,Substitution,Mejbri,Msakni
+955,59,Tunisia,away,80,Substitution,Yassine Khenissi,Jebali
+956,59,Tunisia,away,86,Yellow card,Yassine Khenissi,nan
+957,59,Tunisia,away,88,Substitution,Kechrida,Dräger
+958,59,Tunisia,away,88,Substitution,Sassi,Laïdouni
+959,60,Argentina,home,10,Penalty,Messi,Penalty
+960,60,Argentina,home,28,Disallowed goal,goal,nan
+961,60,Saudi Arabia,away,49,Substitution,Al-Abed,Al-Faraj
+962,60,Saudi Arabia,away,48,Goal,Al-Shehri,Al-Buraikan
+963,60,Saudi Arabia,away,53,Goal,Al-Dawsari,nan
+964,60,Argentina,home,59,Substitution,Martínez,Romero
+965,60,Argentina,home,59,Substitution,Álvarez,Gómez
+966,60,Argentina,home,59,Substitution,Fernández,Paredes
+967,60,Saudi Arabia,away,67,Yellow card,Al-Malki,nan
+968,60,Argentina,home,71,Substitution,Acuña,Tagliafico
+969,60,Saudi Arabia,away,75,Yellow card,Al-Bulaihi,nan
+970,60,Saudi Arabia,away,78,Substitution,Al-Ghanam,Al-Shehri
+971,60,Saudi Arabia,away,79,Yellow card,Al-Dawsari,nan
+972,60,Saudi Arabia,away,82,Yellow card,Abdulhamid,nan
+973,60,Saudi Arabia,away,88,Substitution,Al-Amri,Al-Abed
+974,60,Saudi Arabia,away,88,Yellow card,Al-Abed,nan
+975,60,Saudi Arabia,away,89,Substitution,Asiri,Al-Buraikan
+976,60,Saudi Arabia,away,92,Yellow card,Al-Owais,nan
+977,60,Saudi Arabia,away,99,Substitution,Al-Breik,Al-Shahrani
+978,61,USA,home,11,Yellow card,Dest,nan
+979,61,USA,home,13,Yellow card,McKennie,nan
+980,61,USA,home,36,Goal,Weah,Pulisic
+981,61,Wales,away,40,Yellow card,Bale,nan
+982,61,Wales,away,48,Yellow card,Mepham,nan
+983,61,Wales,away,45,Substitution,Moore,James
+984,61,USA,home,51,Yellow card,Ream,nan
+985,61,USA,home,66,Substitution,Aaronson,McKennie
+986,61,USA,home,74,Substitution,Wright,Sargent
+987,61,USA,home,74,Substitution,Yedlin,Dest
+988,61,USA,home,75,Substitution,Acosta,Musah
+989,61,Wales,away,79,Substitution,Johnson,Williams
+990,61,Wales,away,82,Penalty,Bale,Penalty
+991,61,USA,home,88,Substitution,Morris,Weah
+992,61,Wales,away,93,Substitution,Thomas,Wilson
+993,61,Wales,away,95,Substitution,Morrell,Ampadu
+994,61,USA,home,100,Yellow card,Acosta,nan
+995,62,Netherlands,away,56,Yellow card,de Ligt,nan
+996,62,Netherlands,away,62,Substitution,Memphis,Janssen
+997,62,Senegal,home,62,Substitution,Jakobs,Diallo
+998,62,Senegal,home,69,Substitution,Dieng,Dia
+999,62,Senegal,home,73,Substitution,Jackson,Diatta
+1000,62,Senegal,home,73,Substitution,Gueye,Kouyaté
+1001,62,Netherlands,away,79,Substitution,Klaassen,Bergwijn
+1002,62,Netherlands,away,79,Substitution,Koopmeiners,Berghuis
+1003,62,Netherlands,away,84,Goal,Gakpo,de Jong
+1004,62,Senegal,home,94,Yellow card,Mendy,nan
+1005,62,Netherlands,away,94,Substitution,de Roon,Gakpo
+1006,62,Senegal,home,96,Yellow card,Gueye,nan
+1007,62,Netherlands,away,99,Goal,Klaassen,nan
+1008,63,Iran,away,20,Substitution,Hosseini,Beiranvand
+1009,63,Iran,away,25,Yellow card,Jahanbakhsh,nan
+1010,63,England,home,35,Goal,Bellingham,Shaw
+1011,63,England,home,43,Goal,Saka,Maguire
+1012,63,England,home,46,Goal,Sterling,Kane
+1013,63,Iran,away,45,Substitution,Ezatolahi,Karimi
+1014,63,Iran,away,45,Substitution,Gholizadeh,Jahanbakhsh
+1015,63,Iran,away,45,Substitution,Kanani,Cheshmi
+1016,63,Iran,away,48,Yellow card,Pouraliganji,nan
+1017,63,England,home,62,Goal,Saka,Sterling
+1018,63,Iran,away,63,Substitution,Torabi,Mohammadi
+1019,63,Iran,away,65,Goal,Taremi,Gholizadeh
+1020,63,England,home,70,Substitution,Dier,Maguire
+1021,63,England,home,71,Substitution,Rashford,Saka
+1022,63,England,home,71,Substitution,Grealish,Sterling
+1023,63,England,home,71,Substitution,Foden,Mount
+1024,63,England,home,71,Goal,Rashford,Kane
+1025,63,England,home,76,Substitution,Wilson,Kane
+1026,63,Iran,away,77,Substitution,Azmoun,Nourollahi
+1027,63,England,home,90,Goal,Grealish,Wilson
+1028,63,Iran,away,103,Penalty,Taremi,Penalty
+1029,64,Ecuador,away,4,Disallowed goal,goal,nan
+1030,64,Qatar,home,15,Yellow card,Al Sheeb,nan
+1031,64,Ecuador,away,16,Penalty,Valencia,Penalty
+1032,64,Qatar,home,22,Yellow card,Ali,nan
+1033,64,Ecuador,away,29,Yellow card,Caicedo,nan
+1034,64,Ecuador,away,31,Goal,Valencia,Preciado
+1035,64,Qatar,home,36,Yellow card,Boudiaf,nan
+1036,64,Ecuador,away,56,Yellow card,Méndez,nan
+1037,64,Ecuador,away,68,Substitution,Sarmiento,Ibarra
+1038,64,Qatar,home,71,Substitution,Waad,Al Haydos
+1039,64,Qatar,home,72,Substitution,Muntari,Ali
+1040,64,Ecuador,away,77,Substitution,Cifuentes,Valencia
+1041,64,Qatar,home,78,Yellow card,Afif,nan
+1042,64,Ecuador,away,90,Substitution,Rodríguez,Estrada
+1043,64,Ecuador,away,90,Substitution,Franco,Caicedo
